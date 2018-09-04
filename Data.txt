@@ -1,0 +1,1073 @@
+DARZ_ID;SCHOOL_NAME;TYPE_ID;TYPE_LABEL;LAN_ID;LAN_LABEL;CHILDS_COUNT;FREE_SPACE
+31;Aitvaras;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;33;0
+31;Aitvaras;6;"Nuo 3 iki 4 metø";1;Lietuviø;30;0
+31;Aitvaras;7;"Nuo 4 iki 5 metø";1;Lietuviø;23;0
+31;Aitvaras;8;"Nuo 5 iki 6 metø";1;Lietuviø;23;0
+31;Aitvaras;11;"Nuo 5 iki 7 metø";1;Lietuviø;46;1
+31;Aitvaras;12;"Nuo 2 iki 3 metø";1;Lietuviø;15;0
+31;Aitvaras;13;"Nuo 4 iki 6 metø";1;Lietuviø;24;0
+31;Aitvaras;14;"Nuo 3 iki 6 metø";1;Lietuviø;2;0
+31;Aitvaras;18;"Nuo 2 iki 4 metø";1;Lietuviø;133;0
+31;Aitvaras;25;"Nuo 1,5 iki 7 metø";1;Lietuviø;0;0
+32;Atþalëlës;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;97;6
+32;Atþalëlës;4;"Nuo 3 iki 7 metø";1;Lietuviø;23;0
+32;Atþalëlës;6;"Nuo 3 iki 4 metø";1;Lietuviø;46;7
+32;Atþalëlës;7;"Nuo 4 iki 5 metø";1;Lietuviø;26;1
+32;Atþalëlës;8;"Nuo 5 iki 6 metø";1;Lietuviø;25;0
+32;Atþalëlës;9;"Nuo 6 iki 7 metø";1;Lietuviø;3;2
+32;Atþalëlës;11;"Nuo 5 iki 7 metø";1;Lietuviø;24;0
+32;Atþalëlës;20;"Nuo 2 iki 6 metø";1;Lietuviø;17;2
+32;Atþalëlës;28;"Nuo 1 iki 7 metø";1;Lietuviø;0;0
+33;Auðrelë;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;82;0
+33;Auðrelë;6;"Nuo 3 iki 4 metø";1;Lietuviø;3;1
+33;Auðrelë;7;"Nuo 4 iki 5 metø";1;Lietuviø;54;0
+33;Auðrelë;8;"Nuo 5 iki 6 metø";1;Lietuviø;22;0
+33;Auðrelë;9;"Nuo 6 iki 7 metø";1;Lietuviø;1;0
+33;Auðrelë;11;"Nuo 5 iki 7 metø";1;Lietuviø;43;0
+33;Auðrelë;12;"Nuo 2 iki 3 metø";1;Lietuviø;4;0
+33;Auðrelë;18;"Nuo 2 iki 4 metø";1;Lietuviø;70;0
+34;Berþynëlis;1;"Iki 1,5 metø";1;Lietuviø;15;0
+34;Berþynëlis;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;36;0
+34;Berþynëlis;6;"Nuo 3 iki 4 metø";1;Lietuviø;20;0
+34;Berþynëlis;7;"Nuo 4 iki 5 metø";1;Lietuviø;19;0
+34;Berþynëlis;8;"Nuo 5 iki 6 metø";1;Lietuviø;18;0
+34;Berþynëlis;9;"Nuo 6 iki 7 metø";1;Lietuviø;3;0
+34;Berþynëlis;11;"Nuo 5 iki 7 metø";1;Lietuviø;26;0
+34;Berþynëlis;13;"Nuo 4 iki 6 metø";1;Lietuviø;3;3
+36;Birutës;6;"Nuo 3 iki 4 metø";1;Lietuviø;4;0
+36;Birutës;7;"Nuo 4 iki 5 metø";1;Lietuviø;24;0
+36;Birutës;8;"Nuo 5 iki 6 metø";1;Lietuviø;23;0
+36;Birutës;9;"Nuo 6 iki 7 metø";1;Lietuviø;1;1
+36;Birutës;11;"Nuo 5 iki 7 metø";1;Lietuviø;24;0
+36;Birutës;12;"Nuo 2 iki 3 metø";1;Lietuviø;20;0
+36;Birutës;18;"Nuo 2 iki 4 metø";1;Lietuviø;20;0
+37;Bitutë;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;70;0
+37;Bitutë;4;"Nuo 3 iki 7 metø";1;Lietuviø;25;0
+37;Bitutë;7;"Nuo 4 iki 5 metø";1;Lietuviø;44;0
+37;Bitutë;8;"Nuo 5 iki 6 metø";1;Lietuviø;41;0
+37;Bitutë;9;"Nuo 6 iki 7 metø";1;Lietuviø;2;0
+37;Bitutë;10;"Nuo 3 iki 5 metø";1;Lietuviø;1;0
+37;Bitutë;11;"Nuo 5 iki 7 metø";1;Lietuviø;59;0
+37;Bitutë;18;"Nuo 2 iki 4 metø";1;Lietuviø;78;0
+37;Bitutë;28;"Nuo 1 iki 7 metø";1;Lietuviø;0;1
+39;Coliukë;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;19;0
+39;Coliukë;4;"Nuo 3 iki 7 metø";1;Lietuviø;22;0
+39;Coliukë;17;"Nuo 1 iki 2 metø";1;Lietuviø;12;12
+39;Coliukë;18;"Nuo 2 iki 4 metø";1;Lietuviø;0;13
+40;Èiauðkutis;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;10;0
+40;Èiauðkutis;6;"Nuo 3 iki 4 metø";1;Lietuviø;19;0
+40;Èiauðkutis;7;"Nuo 4 iki 5 metø";1;Lietuviø;27;0
+40;Èiauðkutis;8;"Nuo 5 iki 6 metø";1;Lietuviø;20;0
+40;Èiauðkutis;10;"Nuo 3 iki 5 metø";1;Lietuviø;10;0
+40;Èiauðkutis;11;"Nuo 5 iki 7 metø";1;Lietuviø;43;0
+40;Èiauðkutis;13;"Nuo 4 iki 6 metø";1;Lietuviø;18;0
+41;Daigelis;13;"Nuo 4 iki 6 metø";1;Lietuviø;20;0
+41;Daigelis;18;"Nuo 2 iki 4 metø";1;Lietuviø;15;0
+44;Drevinukas;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;48;0
+44;Drevinukas;6;"Nuo 3 iki 4 metø";1;Lietuviø;11;3
+44;Drevinukas;7;"Nuo 4 iki 5 metø";1;Lietuviø;35;0
+44;Drevinukas;8;"Nuo 5 iki 6 metø";1;Lietuviø;37;0
+44;Drevinukas;11;"Nuo 5 iki 7 metø";1;Lietuviø;24;0
+44;Drevinukas;18;"Nuo 2 iki 4 metø";1;Lietuviø;42;0
+44;Drevinukas;28;"Nuo 1 iki 7 metø";1;Lietuviø;0;1
+45;Drugelis;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;53;0
+45;Drugelis;6;"Nuo 3 iki 4 metø";1;Lietuviø;26;0
+45;Drugelis;7;"Nuo 4 iki 5 metø";1;Lietuviø;23;0
+45;Drugelis;8;"Nuo 5 iki 6 metø";1;Lietuviø;25;0
+45;Drugelis;11;"Nuo 5 iki 7 metø";1;Lietuviø;17;0
+46;"Du gaideliai";3;"Nuo 1,5 iki 3 metø";1;Lietuviø;35;21
+46;"Du gaideliai";6;"Nuo 3 iki 4 metø";1;Lietuviø;21;0
+46;"Du gaideliai";7;"Nuo 4 iki 5 metø";1;Lietuviø;25;0
+46;"Du gaideliai";8;"Nuo 5 iki 6 metø";1;Lietuviø;24;0
+46;"Du gaideliai";9;"Nuo 6 iki 7 metø";1;Lietuviø;0;23
+46;"Du gaideliai";11;"Nuo 5 iki 7 metø";1;Lietuviø;21;0
+46;"Du gaideliai";12;"Nuo 2 iki 3 metø";1;Lietuviø;0;1
+46;"Du gaideliai";28;"Nuo 1 iki 7 metø";1;Lietuviø;0;20
+47;Eglutë;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;104;0
+47;Eglutë;6;"Nuo 3 iki 4 metø";1;Lietuviø;4;0
+47;Eglutë;7;"Nuo 4 iki 5 metø";1;Lietuviø;44;0
+47;Eglutë;8;"Nuo 5 iki 6 metø";1;Lietuviø;44;0
+47;Eglutë;11;"Nuo 5 iki 7 metø";1;Lietuviø;52;0
+47;Eglutë;16;"Nuo 4 iki 7 metø";1;Lietuviø;5;0
+47;Eglutë;18;"Nuo 2 iki 4 metø";1;Lietuviø;73;0
+49;Gandriukas;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;89;0
+49;Gandriukas;6;"Nuo 3 iki 4 metø";1;Lietuviø;62;0
+49;Gandriukas;7;"Nuo 4 iki 5 metø";1;Lietuviø;43;0
+49;Gandriukas;8;"Nuo 5 iki 6 metø";1;Lietuviø;64;0
+49;Gandriukas;11;"Nuo 5 iki 7 metø";1;Lietuviø;46;0
+50;"Geniukø kalvë";3;"Nuo 1,5 iki 3 metø";1;Lietuviø;67;0
+50;"Geniukø kalvë";6;"Nuo 3 iki 4 metø";1;Lietuviø;32;0
+50;"Geniukø kalvë";7;"Nuo 4 iki 5 metø";1;Lietuviø;65;0
+50;"Geniukø kalvë";8;"Nuo 5 iki 6 metø";1;Lietuviø;48;3
+50;"Geniukø kalvë";9;"Nuo 6 iki 7 metø";1;Lietuviø;1;0
+50;"Geniukø kalvë";11;"Nuo 5 iki 7 metø";1;Lietuviø;45;0
+50;"Geniukø kalvë";18;"Nuo 2 iki 4 metø";1;Lietuviø;45;0
+51;Gelvonëlis;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;50;0
+51;Gelvonëlis;7;"Nuo 4 iki 5 metø";1;Lietuviø;19;0
+51;Gelvonëlis;8;"Nuo 5 iki 6 metø";1;Lietuviø;20;0
+51;Gelvonëlis;11;"Nuo 5 iki 7 metø";1;Lietuviø;20;0
+51;Gelvonëlis;16;"Nuo 4 iki 7 metø";1;Lietuviø;6;2
+51;Gelvonëlis;18;"Nuo 2 iki 4 metø";1;Lietuviø;19;0
+52;"Gervelë (Dzûkø g. 32)";3;"Nuo 1,5 iki 3 metø";1;Lietuviø;24;0
+52;"Gervelë (Dzûkø g. 32)";6;"Nuo 3 iki 4 metø";1;Lietuviø;7;1
+52;"Gervelë (Dzûkø g. 32)";7;"Nuo 4 iki 5 metø";1;Lietuviø;26;1
+52;"Gervelë (Dzûkø g. 32)";8;"Nuo 5 iki 6 metø";1;Lietuviø;23;0
+52;"Gervelë (Dzûkø g. 32)";9;"Nuo 6 iki 7 metø";1;Lietuviø;4;1
+52;"Gervelë (Dzûkø g. 32)";11;"Nuo 5 iki 7 metø";1;Lietuviø;15;0
+52;"Gervelë (Dzûkø g. 32)";18;"Nuo 2 iki 4 metø";1;Lietuviø;14;0
+53;Giluþis;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;61;0
+53;Giluþis;6;"Nuo 3 iki 4 metø";1;Lietuviø;110;0
+53;Giluþis;7;"Nuo 4 iki 5 metø";1;Lietuviø;46;0
+53;Giluþis;8;"Nuo 5 iki 6 metø";1;Lietuviø;46;0
+53;Giluþis;11;"Nuo 5 iki 7 metø";1;Lietuviø;111;0
+54;"Gintarëlis (Didlaukio g. 35)";3;"Nuo 1,5 iki 3 metø";1;Lietuviø;72;0
+54;"Gintarëlis (Didlaukio g. 35)";6;"Nuo 3 iki 4 metø";1;Lietuviø;46;0
+54;"Gintarëlis (Didlaukio g. 35)";7;"Nuo 4 iki 5 metø";1;Lietuviø;23;0
+54;"Gintarëlis (Didlaukio g. 35)";8;"Nuo 5 iki 6 metø";1;Lietuviø;57;0
+54;"Gintarëlis (Didlaukio g. 35)";10;"Nuo 3 iki 5 metø";1;Lietuviø;23;0
+54;"Gintarëlis (Didlaukio g. 35)";11;"Nuo 5 iki 7 metø";1;Lietuviø;88;0
+54;"Gintarëlis (Didlaukio g. 35)";14;"Nuo 3 iki 6 metø";1;Lietuviø;46;0
+54;"Gintarëlis (Didlaukio g. 35)";18;"Nuo 2 iki 4 metø";1;Lietuviø;60;0
+54;"Gintarëlis (Didlaukio g. 35)";19;"Nuo 2 iki 5 metø";1;Lietuviø;2;0
+54;"Gintarëlis (Didlaukio g. 35)";28;"Nuo 1 iki 7 metø";1;Lietuviø;0;1
+55;Giraitë;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;78;0
+55;Giraitë;6;"Nuo 3 iki 4 metø";1;Lietuviø;43;0
+55;Giraitë;7;"Nuo 4 iki 5 metø";1;Lietuviø;47;0
+55;Giraitë;8;"Nuo 5 iki 6 metø";1;Lietuviø;24;0
+55;Giraitë;10;"Nuo 3 iki 5 metø";1;Lietuviø;20;0
+55;Giraitë;11;"Nuo 5 iki 7 metø";1;Lietuviø;62;0
+55;Giraitë;18;"Nuo 2 iki 4 metø";1;Lietuviø;42;0
+55;Giraitë;28;"Nuo 1 iki 7 metø";1;Lietuviø;1;0
+56;Gudrutis;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;35;0
+56;Gudrutis;7;"Nuo 4 iki 5 metø";1;Lietuviø;20;0
+56;Gudrutis;8;"Nuo 5 iki 6 metø";1;Lietuviø;22;0
+56;Gudrutis;10;"Nuo 3 iki 5 metø";1;Lietuviø;2;0
+56;Gudrutis;11;"Nuo 5 iki 7 metø";1;Lietuviø;21;0
+56;Gudrutis;18;"Nuo 2 iki 4 metø";1;Lietuviø;49;0
+56;Gudrutis;28;"Nuo 1 iki 7 metø";1;Lietuviø;0;1
+57;Jovarëlis;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;59;0
+57;Jovarëlis;4;"Nuo 3 iki 7 metø";1;Lietuviø;14;3
+57;Jovarëlis;6;"Nuo 3 iki 4 metø";1;Lietuviø;45;0
+57;Jovarëlis;7;"Nuo 4 iki 5 metø";1;Lietuviø;45;0
+57;Jovarëlis;8;"Nuo 5 iki 6 metø";1;Lietuviø;23;0
+57;Jovarëlis;11;"Nuo 5 iki 7 metø";1;Lietuviø;89;0
+57;Jovarëlis;18;"Nuo 2 iki 4 metø";1;Lietuviø;31;0
+58;Jurginëlis;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;93;0
+58;Jurginëlis;6;"Nuo 3 iki 4 metø";1;Lietuviø;18;0
+58;Jurginëlis;7;"Nuo 4 iki 5 metø";1;Lietuviø;67;0
+58;Jurginëlis;8;"Nuo 5 iki 6 metø";1;Lietuviø;24;0
+58;Jurginëlis;11;"Nuo 5 iki 7 metø";1;Lietuviø;58;0
+58;Jurginëlis;12;"Nuo 2 iki 3 metø";1;Lietuviø;14;0
+58;Jurginëlis;18;"Nuo 2 iki 4 metø";1;Lietuviø;33;0
+58;Jurginëlis;19;"Nuo 2 iki 5 metø";1;Lietuviø;2;0
+59;Karusëlë;4;"Nuo 3 iki 7 metø";1;Lietuviø;22;0
+59;Karusëlë;6;"Nuo 3 iki 4 metø";1;Lietuviø;30;2
+59;Karusëlë;8;"Nuo 5 iki 6 metø";1;Lietuviø;22;0
+59;Karusëlë;11;"Nuo 5 iki 7 metø";1;Lietuviø;45;0
+59;Karusëlë;16;"Nuo 4 iki 7 metø";1;Lietuviø;8;5
+60;Kaðtonas;10;"Nuo 3 iki 5 metø";1;Lietuviø;20;0
+60;Kaðtonas;11;"Nuo 5 iki 7 metø";1;Lietuviø;21;0
+61;Krivûlë;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;55;0
+61;Krivûlë;10;"Nuo 3 iki 5 metø";1;Lietuviø;42;0
+61;Krivûlë;11;"Nuo 5 iki 7 metø";1;Lietuviø;58;0
+61;Krivûlë;13;"Nuo 4 iki 6 metø";1;Lietuviø;22;0
+61;Krivûlë;18;"Nuo 2 iki 4 metø";1;Lietuviø;36;0
+61;Krivûlë;20;"Nuo 2 iki 6 metø";1;Lietuviø;24;0
+62;Kodëlèiukas;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;144;0
+62;Kodëlèiukas;6;"Nuo 3 iki 4 metø";1;Lietuviø;45;3
+62;Kodëlèiukas;7;"Nuo 4 iki 5 metø";1;Lietuviø;77;0
+62;Kodëlèiukas;8;"Nuo 5 iki 6 metø";1;Lietuviø;61;1
+62;Kodëlèiukas;11;"Nuo 5 iki 7 metø";1;Lietuviø;48;0
+62;Kodëlèiukas;18;"Nuo 2 iki 4 metø";1;Lietuviø;61;0
+62;Kodëlèiukas;28;"Nuo 1 iki 7 metø";1;Lietuviø;0;1
+66;Lakðtingala;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;75;0
+66;Lakðtingala;6;"Nuo 3 iki 4 metø";1;Lietuviø;35;6
+66;Lakðtingala;7;"Nuo 4 iki 5 metø";1;Lietuviø;64;0
+66;Lakðtingala;8;"Nuo 5 iki 6 metø";1;Lietuviø;40;0
+66;Lakðtingala;11;"Nuo 5 iki 7 metø";1;Lietuviø;49;0
+66;Lakðtingala;16;"Nuo 4 iki 7 metø";1;Lietuviø;5;2
+66;Lakðtingala;18;"Nuo 2 iki 4 metø";1;Lietuviø;64;7
+68;Lazdynëlis;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;47;0
+68;Lazdynëlis;6;"Nuo 3 iki 4 metø";1;Lietuviø;94;0
+68;Lazdynëlis;7;"Nuo 4 iki 5 metø";1;Lietuviø;24;0
+68;Lazdynëlis;11;"Nuo 5 iki 7 metø";1;Lietuviø;75;0
+68;Lazdynëlis;16;"Nuo 4 iki 7 metø";1;Lietuviø;16;5
+69;Liepsnelë;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;16;0
+69;Liepsnelë;14;"Nuo 3 iki 6 metø";1;Lietuviø;24;1
+69;Liepsnelë;18;"Nuo 2 iki 4 metø";1;Lietuviø;1;0
+71;"Lokiuko giraitë";3;"Nuo 1,5 iki 3 metø";1;Lietuviø;89;0
+71;"Lokiuko giraitë";7;"Nuo 4 iki 5 metø";1;Lietuviø;63;0
+71;"Lokiuko giraitë";8;"Nuo 5 iki 6 metø";1;Lietuviø;46;0
+71;"Lokiuko giraitë";9;"Nuo 6 iki 7 metø";1;Lietuviø;1;4
+71;"Lokiuko giraitë";11;"Nuo 5 iki 7 metø";1;Lietuviø;42;0
+71;"Lokiuko giraitë";13;"Nuo 4 iki 6 metø";1;Lietuviø;1;1
+71;"Lokiuko giraitë";18;"Nuo 2 iki 4 metø";1;Lietuviø;59;0
+72;Markuèiai;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;56;0
+72;Markuèiai;6;"Nuo 3 iki 4 metø";1;Lietuviø;10;0
+72;Markuèiai;7;"Nuo 4 iki 5 metø";1;Lietuviø;41;0
+72;Markuèiai;8;"Nuo 5 iki 6 metø";1;Lietuviø;49;0
+72;Markuèiai;9;"Nuo 6 iki 7 metø";1;Lietuviø;20;1
+72;Markuèiai;11;"Nuo 5 iki 7 metø";1;Lietuviø;19;0
+72;Markuèiai;14;"Nuo 3 iki 6 metø";1;Lietuviø;6;0
+72;Markuèiai;18;"Nuo 2 iki 4 metø";1;Lietuviø;21;0
+73;Maþylis;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;50;0
+73;Maþylis;6;"Nuo 3 iki 4 metø";1;Lietuviø;9;0
+73;Maþylis;7;"Nuo 4 iki 5 metø";1;Lietuviø;20;0
+73;Maþylis;8;"Nuo 5 iki 6 metø";1;Lietuviø;22;0
+73;Maþylis;11;"Nuo 5 iki 7 metø";1;Lietuviø;22;0
+73;Maþylis;18;"Nuo 2 iki 4 metø";1;Lietuviø;23;0
+74;Medynëlis;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;139;0
+74;Medynëlis;6;"Nuo 3 iki 4 metø";1;Lietuviø;83;0
+74;Medynëlis;7;"Nuo 4 iki 5 metø";1;Lietuviø;46;0
+74;Medynëlis;8;"Nuo 5 iki 6 metø";1;Lietuviø;54;1
+74;Medynëlis;9;"Nuo 6 iki 7 metø";1;Lietuviø;21;3
+74;Medynëlis;11;"Nuo 5 iki 7 metø";1;Lietuviø;22;0
+74;Medynëlis;13;"Nuo 4 iki 6 metø";1;Lietuviø;23;0
+74;Medynëlis;28;"Nuo 1 iki 7 metø";1;Lietuviø;1;1
+75;Molinukas;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;56;0
+75;Molinukas;6;"Nuo 3 iki 4 metø";1;Lietuviø;25;0
+75;Molinukas;7;"Nuo 4 iki 5 metø";1;Lietuviø;23;0
+75;Molinukas;9;"Nuo 6 iki 7 metø";1;Lietuviø;1;2
+75;Molinukas;14;"Nuo 3 iki 6 metø";1;Lietuviø;23;0
+75;Molinukas;16;"Nuo 4 iki 7 metø";1;Lietuviø;19;0
+76;"Naminukas (Smëlio g. 13)";7;"Nuo 4 iki 5 metø";1;Lietuviø;26;3
+76;"Naminukas (Smëlio g. 13)";8;"Nuo 5 iki 6 metø";1;Lietuviø;23;0
+76;"Naminukas (Smëlio g. 13)";9;"Nuo 6 iki 7 metø";1;Lietuviø;1;0
+76;"Naminukas (Smëlio g. 13)";11;"Nuo 5 iki 7 metø";1;Lietuviø;20;0
+76;"Naminukas (Smëlio g. 13)";18;"Nuo 2 iki 4 metø";1;Lietuviø;34;4
+78;Nykðtukas;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;122;0
+78;Nykðtukas;6;"Nuo 3 iki 4 metø";1;Lietuviø;65;0
+78;Nykðtukas;7;"Nuo 4 iki 5 metø";1;Lietuviø;50;0
+78;Nykðtukas;8;"Nuo 5 iki 6 metø";1;Lietuviø;46;0
+78;Nykðtukas;18;"Nuo 2 iki 4 metø";1;Lietuviø;32;0
+79;Ozas;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;86;0
+79;Ozas;6;"Nuo 3 iki 4 metø";1;Lietuviø;4;0
+79;Ozas;7;"Nuo 4 iki 5 metø";1;Lietuviø;48;0
+79;Ozas;8;"Nuo 5 iki 6 metø";1;Lietuviø;68;0
+79;Ozas;11;"Nuo 5 iki 7 metø";1;Lietuviø;60;0
+79;Ozas;18;"Nuo 2 iki 4 metø";1;Lietuviø;50;0
+80;Pabiruèiai;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;82;0
+80;Pabiruèiai;6;"Nuo 3 iki 4 metø";1;Lietuviø;22;0
+80;Pabiruèiai;7;"Nuo 4 iki 5 metø";1;Lietuviø;44;0
+80;Pabiruèiai;8;"Nuo 5 iki 6 metø";1;Lietuviø;38;0
+80;Pabiruèiai;9;"Nuo 6 iki 7 metø";1;Lietuviø;0;6
+80;Pabiruèiai;11;"Nuo 5 iki 7 metø";1;Lietuviø;33;0
+80;Pabiruèiai;12;"Nuo 2 iki 3 metø";1;Lietuviø;18;0
+80;Pabiruèiai;13;"Nuo 4 iki 6 metø";1;Lietuviø;2;0
+80;Pabiruèiai;18;"Nuo 2 iki 4 metø";1;Lietuviø;36;0
+80;Pabiruèiai;28;"Nuo 1 iki 7 metø";1;Lietuviø;0;1
+81;Pagrandukas;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;34;0
+81;Pagrandukas;4;"Nuo 3 iki 7 metø";1;Lietuviø;2;0
+81;Pagrandukas;6;"Nuo 3 iki 4 metø";1;Lietuviø;5;0
+81;Pagrandukas;7;"Nuo 4 iki 5 metø";1;Lietuviø;23;0
+81;Pagrandukas;8;"Nuo 5 iki 6 metø";1;Lietuviø;11;0
+81;Pagrandukas;9;"Nuo 6 iki 7 metø";1;Lietuviø;0;0
+81;Pagrandukas;11;"Nuo 5 iki 7 metø";1;Lietuviø;22;0
+81;Pagrandukas;14;"Nuo 3 iki 6 metø";1;Lietuviø;26;0
+81;Pagrandukas;18;"Nuo 2 iki 4 metø";1;Lietuviø;41;0
+82;Pakalnutë;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;65;0
+82;Pakalnutë;9;"Nuo 6 iki 7 metø";1;Lietuviø;2;4
+82;Pakalnutë;10;"Nuo 3 iki 5 metø";1;Lietuviø;52;0
+82;Pakalnutë;11;"Nuo 5 iki 7 metø";1;Lietuviø;24;0
+82;Pakalnutë;13;"Nuo 4 iki 6 metø";1;Lietuviø;19;0
+82;Pakalnutë;18;"Nuo 2 iki 4 metø";1;Lietuviø;52;0
+83;Paneriø;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;16;18
+83;Paneriø;16;"Nuo 4 iki 7 metø";1;Lietuviø;23;1
+83;Paneriø;18;"Nuo 2 iki 4 metø";1;Lietuviø;20;0
+84;Papartis;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;60;0
+84;Papartis;7;"Nuo 4 iki 5 metø";1;Lietuviø;47;0
+84;Papartis;8;"Nuo 5 iki 6 metø";1;Lietuviø;45;0
+84;Papartis;11;"Nuo 5 iki 7 metø";1;Lietuviø;44;0
+84;Papartis;18;"Nuo 2 iki 4 metø";1;Lietuviø;105;0
+86;Pasaka;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;30;0
+86;Pasaka;4;"Nuo 3 iki 7 metø";1;Lietuviø;79;0
+86;Pasaka;6;"Nuo 3 iki 4 metø";1;Lietuviø;16;0
+86;Pasaka;7;"Nuo 4 iki 5 metø";1;Lietuviø;45;0
+86;Pasaka;8;"Nuo 5 iki 6 metø";1;Lietuviø;19;0
+86;Pasaka;11;"Nuo 5 iki 7 metø";1;Lietuviø;49;0
+86;Pasaka;13;"Nuo 4 iki 6 metø";1;Lietuviø;13;0
+86;Pasaka;18;"Nuo 2 iki 4 metø";1;Lietuviø;44;0
+88;Pasakaitë;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;111;0
+88;Pasakaitë;6;"Nuo 3 iki 4 metø";1;Lietuviø;28;0
+88;Pasakaitë;7;"Nuo 4 iki 5 metø";1;Lietuviø;24;0
+88;Pasakaitë;11;"Nuo 5 iki 7 metø";1;Lietuviø;69;0
+88;Pasakaitë;19;"Nuo 2 iki 5 metø";1;Lietuviø;0;0
+88;Pasakaitë;20;"Nuo 2 iki 6 metø";1;Lietuviø;67;0
+89;Pelëda;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;67;0
+89;Pelëda;7;"Nuo 4 iki 5 metø";1;Lietuviø;39;0
+89;Pelëda;8;"Nuo 5 iki 6 metø";1;Lietuviø;48;0
+89;Pelëda;11;"Nuo 5 iki 7 metø";1;Lietuviø;26;0
+89;Pelëda;12;"Nuo 2 iki 3 metø";1;Lietuviø;18;0
+89;Pelëda;14;"Nuo 3 iki 6 metø";1;Lietuviø;23;0
+89;Pelëda;16;"Nuo 4 iki 7 metø";1;Lietuviø;10;1
+89;Pelëda;18;"Nuo 2 iki 4 metø";1;Lietuviø;64;0
+89;Pelëda;19;"Nuo 2 iki 5 metø";1;Lietuviø;7;0
+90;Pelenë;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;49;0
+90;Pelenë;7;"Nuo 4 iki 5 metø";1;Lietuviø;23;0
+90;Pelenë;8;"Nuo 5 iki 6 metø";1;Lietuviø;20;0
+90;Pelenë;9;"Nuo 6 iki 7 metø";1;Lietuviø;1;1
+90;Pelenë;11;"Nuo 5 iki 7 metø";1;Lietuviø;20;0
+90;Pelenë;18;"Nuo 2 iki 4 metø";1;Lietuviø;24;0
+91;Pipiras;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;68;0
+91;Pipiras;6;"Nuo 3 iki 4 metø";1;Lietuviø;8;0
+91;Pipiras;7;"Nuo 4 iki 5 metø";1;Lietuviø;39;0
+91;Pipiras;8;"Nuo 5 iki 6 metø";1;Lietuviø;40;0
+91;Pipiras;11;"Nuo 5 iki 7 metø";1;Lietuviø;78;0
+91;Pipiras;12;"Nuo 2 iki 3 metø";1;Lietuviø;15;0
+91;Pipiras;14;"Nuo 3 iki 6 metø";1;Lietuviø;5;0
+91;Pipiras;18;"Nuo 2 iki 4 metø";1;Lietuviø;41;0
+93;Pumpurëlis;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;35;36
+93;Pumpurëlis;4;"Nuo 3 iki 7 metø";1;Lietuviø;20;3
+93;Pumpurëlis;6;"Nuo 3 iki 4 metø";1;Lietuviø;42;8
+93;Pumpurëlis;7;"Nuo 4 iki 5 metø";1;Lietuviø;43;2
+93;Pumpurëlis;8;"Nuo 5 iki 6 metø";1;Lietuviø;42;1
+93;Pumpurëlis;10;"Nuo 3 iki 5 metø";1;Lietuviø;0;22
+93;Pumpurëlis;11;"Nuo 5 iki 7 metø";1;Lietuviø;60;0
+94;Puriena;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;68;0
+94;Puriena;7;"Nuo 4 iki 5 metø";1;Lietuviø;50;0
+94;Puriena;8;"Nuo 5 iki 6 metø";1;Lietuviø;46;0
+94;Puriena;10;"Nuo 3 iki 5 metø";1;Lietuviø;6;0
+94;Puriena;11;"Nuo 5 iki 7 metø";1;Lietuviø;41;0
+94;Puriena;12;"Nuo 2 iki 3 metø";1;Lietuviø;29;0
+94;Puriena;18;"Nuo 2 iki 4 metø";1;Lietuviø;65;0
+95;Puðaitë;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;122;0
+95;Puðaitë;6;"Nuo 3 iki 4 metø";1;Lietuviø;24;0
+95;Puðaitë;7;"Nuo 4 iki 5 metø";1;Lietuviø;45;0
+95;Puðaitë;8;"Nuo 5 iki 6 metø";1;Lietuviø;46;0
+95;Puðaitë;11;"Nuo 5 iki 7 metø";1;Lietuviø;46;0
+95;Puðaitë;18;"Nuo 2 iki 4 metø";1;Lietuviø;23;0
+96;"Puðynëlis (Miglos g. 53)";3;"Nuo 1,5 iki 3 metø";1;Lietuviø;35;0
+96;"Puðynëlis (Miglos g. 53)";10;"Nuo 3 iki 5 metø";1;Lietuviø;23;0
+96;"Puðynëlis (Miglos g. 53)";11;"Nuo 5 iki 7 metø";1;Lietuviø;24;0
+96;"Puðynëlis (Miglos g. 53)";14;"Nuo 3 iki 6 metø";1;Lietuviø;23;0
+98;Rasa;1;"Iki 1,5 metø";1;Lietuviø;14;8
+98;Rasa;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;16;14
+98;Rasa;7;"Nuo 4 iki 5 metø";1;Lietuviø;35;0
+98;Rasa;8;"Nuo 5 iki 6 metø";1;Lietuviø;22;4
+98;Rasa;11;"Nuo 5 iki 7 metø";1;Lietuviø;56;0
+98;Rasa;13;"Nuo 4 iki 6 metø";1;Lietuviø;18;0
+98;Rasa;14;"Nuo 3 iki 6 metø";1;Lietuviø;22;0
+98;Rasa;18;"Nuo 2 iki 4 metø";1;Lietuviø;40;37
+98;Rasa;19;"Nuo 2 iki 5 metø";1;Lietuviø;0;7
+99;Rugelis;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;36;0
+99;Rugelis;6;"Nuo 3 iki 4 metø";1;Lietuviø;44;0
+99;Rugelis;7;"Nuo 4 iki 5 metø";1;Lietuviø;21;0
+99;Rugelis;8;"Nuo 5 iki 6 metø";1;Lietuviø;41;1
+99;Rugelis;11;"Nuo 5 iki 7 metø";1;Lietuviø;20;4
+99;Rugelis;13;"Nuo 4 iki 6 metø";1;Lietuviø;4;1
+99;Rugelis;18;"Nuo 2 iki 4 metø";1;Lietuviø;46;0
+99;Rugelis;28;"Nuo 1 iki 7 metø";1;Lietuviø;0;0
+100;Rieðutëlis;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;110;0
+100;Rieðutëlis;7;"Nuo 4 iki 5 metø";1;Lietuviø;25;1
+100;Rieðutëlis;10;"Nuo 3 iki 5 metø";1;Lietuviø;20;0
+100;Rieðutëlis;11;"Nuo 5 iki 7 metø";1;Lietuviø;69;0
+100;Rieðutëlis;13;"Nuo 4 iki 6 metø";1;Lietuviø;42;0
+100;Rieðutëlis;18;"Nuo 2 iki 4 metø";1;Lietuviø;55;1
+101;Rytas;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;77;9
+101;Rytas;6;"Nuo 3 iki 4 metø";1;Lietuviø;23;0
+101;Rytas;8;"Nuo 5 iki 6 metø";1;Lietuviø;45;2
+101;Rytas;10;"Nuo 3 iki 5 metø";1;Lietuviø;48;0
+101;Rytas;11;"Nuo 5 iki 7 metø";1;Lietuviø;42;0
+101;Rytas;13;"Nuo 4 iki 6 metø";1;Lietuviø;17;0
+101;Rytas;18;"Nuo 2 iki 4 metø";1;Lietuviø;52;1
+102;Ramunëlë;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;17;17
+102;Ramunëlë;7;"Nuo 4 iki 5 metø";1;Lietuviø;18;0
+102;Ramunëlë;8;"Nuo 5 iki 6 metø";1;Lietuviø;22;0
+102;Ramunëlë;11;"Nuo 5 iki 7 metø";1;Lietuviø;45;5
+102;Ramunëlë;18;"Nuo 2 iki 4 metø";1;Lietuviø;42;23
+103;Rûta;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;45;0
+103;Rûta;6;"Nuo 3 iki 4 metø";1;Lietuviø;24;0
+103;Rûta;7;"Nuo 4 iki 5 metø";1;Lietuviø;44;0
+103;Rûta;8;"Nuo 5 iki 6 metø";1;Lietuviø;43;0
+103;Rûta;10;"Nuo 3 iki 5 metø";1;Lietuviø;0;0
+103;Rûta;11;"Nuo 5 iki 7 metø";1;Lietuviø;45;0
+103;Rûta;12;"Nuo 2 iki 3 metø";1;Lietuviø;17;0
+103;Rûta;14;"Nuo 3 iki 6 metø";1;Lietuviø;12;0
+103;Rûta;18;"Nuo 2 iki 4 metø";1;Lietuviø;28;0
+104;Sadutë;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;54;0
+104;Sadutë;6;"Nuo 3 iki 4 metø";1;Lietuviø;26;0
+104;Sadutë;7;"Nuo 4 iki 5 metø";1;Lietuviø;23;0
+104;Sadutë;8;"Nuo 5 iki 6 metø";1;Lietuviø;23;1
+104;Sadutë;9;"Nuo 6 iki 7 metø";1;Lietuviø;1;0
+104;Sadutë;11;"Nuo 5 iki 7 metø";1;Lietuviø;44;0
+105;Sakalëlis;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;38;16
+105;Sakalëlis;4;"Nuo 3 iki 7 metø";1;Lietuviø;46;3
+105;Sakalëlis;7;"Nuo 4 iki 5 metø";1;Lietuviø;45;6
+105;Sakalëlis;8;"Nuo 5 iki 6 metø";1;Lietuviø;46;1
+105;Sakalëlis;10;"Nuo 3 iki 5 metø";1;Lietuviø;0;3
+105;Sakalëlis;11;"Nuo 5 iki 7 metø";1;Lietuviø;23;0
+105;Sakalëlis;12;"Nuo 2 iki 3 metø";1;Lietuviø;1;8
+105;Sakalëlis;18;"Nuo 2 iki 4 metø";1;Lietuviø;45;6
+106;Salininkø;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;77;0
+106;Salininkø;6;"Nuo 3 iki 4 metø";1;Lietuviø;23;0
+106;Salininkø;7;"Nuo 4 iki 5 metø";1;Lietuviø;23;0
+106;Salininkø;8;"Nuo 5 iki 6 metø";1;Lietuviø;26;0
+108;Saulëtekis;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;67;0
+108;Saulëtekis;7;"Nuo 4 iki 5 metø";1;Lietuviø;23;0
+108;Saulëtekis;8;"Nuo 5 iki 6 metø";1;Lietuviø;44;0
+108;Saulëtekis;11;"Nuo 5 iki 7 metø";1;Lietuviø;43;0
+108;Saulëtekis;18;"Nuo 2 iki 4 metø";1;Lietuviø;72;0
+109;Skroblinukas;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;115;0
+109;Skroblinukas;7;"Nuo 4 iki 5 metø";1;Lietuviø;42;0
+109;Skroblinukas;8;"Nuo 5 iki 6 metø";1;Lietuviø;39;3
+109;Skroblinukas;9;"Nuo 6 iki 7 metø";1;Lietuviø;3;0
+109;Skroblinukas;11;"Nuo 5 iki 7 metø";1;Lietuviø;45;0
+109;Skroblinukas;18;"Nuo 2 iki 4 metø";1;Lietuviø;35;0
+110;Smalsuèiai;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;84;0
+110;Smalsuèiai;7;"Nuo 4 iki 5 metø";1;Lietuviø;40;0
+110;Smalsuèiai;8;"Nuo 5 iki 6 metø";1;Lietuviø;66;0
+110;Smalsuèiai;11;"Nuo 5 iki 7 metø";1;Lietuviø;37;0
+110;Smalsuèiai;18;"Nuo 2 iki 4 metø";1;Lietuviø;51;0
+110;Smalsuèiai;28;"Nuo 1 iki 7 metø";1;Lietuviø;0;1
+112;Spragtukas;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;22;14
+112;Spragtukas;6;"Nuo 3 iki 4 metø";1;Lietuviø;25;0
+112;Spragtukas;7;"Nuo 4 iki 5 metø";1;Lietuviø;23;0
+112;Spragtukas;8;"Nuo 5 iki 6 metø";1;Lietuviø;20;0
+112;Spragtukas;11;"Nuo 5 iki 7 metø";1;Lietuviø;23;6
+112;Spragtukas;16;"Nuo 4 iki 7 metø";1;Lietuviø;21;0
+113;Strazdelis;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;106;0
+113;Strazdelis;6;"Nuo 3 iki 4 metø";1;Lietuviø;70;0
+113;Strazdelis;7;"Nuo 4 iki 5 metø";1;Lietuviø;46;0
+113;Strazdelis;8;"Nuo 5 iki 6 metø";1;Lietuviø;67;0
+113;Strazdelis;11;"Nuo 5 iki 7 metø";1;Lietuviø;44;0
+113;Strazdelis;12;"Nuo 2 iki 3 metø";1;Lietuviø;18;0
+113;Strazdelis;16;"Nuo 4 iki 7 metø";1;Lietuviø;15;8
+114;Sveikuolis;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;17;0
+115;Ðermukðnëlë;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;53;0
+115;Ðermukðnëlë;6;"Nuo 3 iki 4 metø";1;Lietuviø;67;0
+115;Ðermukðnëlë;7;"Nuo 4 iki 5 metø";1;Lietuviø;46;0
+115;Ðermukðnëlë;11;"Nuo 5 iki 7 metø";1;Lietuviø;39;0
+115;Ðermukðnëlë;13;"Nuo 4 iki 6 metø";1;Lietuviø;23;0
+115;Ðermukðnëlë;16;"Nuo 4 iki 7 metø";1;Lietuviø;22;0
+117;Ðnekutis;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;54;0
+117;Ðnekutis;7;"Nuo 4 iki 5 metø";1;Lietuviø;21;0
+117;Ðnekutis;11;"Nuo 5 iki 7 metø";1;Lietuviø;24;0
+117;Ðnekutis;14;"Nuo 3 iki 6 metø";1;Lietuviø;21;0
+117;Ðnekutis;18;"Nuo 2 iki 4 metø";1;Lietuviø;21;0
+118;Uþupiukas;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;35;0
+118;Uþupiukas;6;"Nuo 3 iki 4 metø";1;Lietuviø;33;0
+118;Uþupiukas;7;"Nuo 4 iki 5 metø";1;Lietuviø;65;0
+118;Uþupiukas;8;"Nuo 5 iki 6 metø";1;Lietuviø;69;0
+118;Uþupiukas;11;"Nuo 5 iki 7 metø";1;Lietuviø;42;0
+118;Uþupiukas;13;"Nuo 4 iki 6 metø";1;Lietuviø;14;0
+118;Uþupiukas;18;"Nuo 2 iki 4 metø";1;Lietuviø;70;0
+119;Vaidilutë;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;72;0
+119;Vaidilutë;6;"Nuo 3 iki 4 metø";1;Lietuviø;31;0
+119;Vaidilutë;7;"Nuo 4 iki 5 metø";1;Lietuviø;61;3
+119;Vaidilutë;8;"Nuo 5 iki 6 metø";1;Lietuviø;43;0
+119;Vaidilutë;9;"Nuo 6 iki 7 metø";1;Lietuviø;1;0
+119;Vaidilutë;11;"Nuo 5 iki 7 metø";1;Lietuviø;42;0
+119;Vaidilutë;13;"Nuo 4 iki 6 metø";1;Lietuviø;4;0
+119;Vaidilutë;18;"Nuo 2 iki 4 metø";1;Lietuviø;42;0
+120;Vandenis;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;137;0
+120;Vandenis;6;"Nuo 3 iki 4 metø";1;Lietuviø;65;0
+120;Vandenis;7;"Nuo 4 iki 5 metø";1;Lietuviø;69;0
+120;Vandenis;8;"Nuo 5 iki 6 metø";1;Lietuviø;47;0
+120;Vandenis;10;"Nuo 3 iki 5 metø";1;Lietuviø;23;0
+120;Vandenis;11;"Nuo 5 iki 7 metø";1;Lietuviø;46;0
+121;Varpelis;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;81;0
+121;Varpelis;4;"Nuo 3 iki 7 metø";1;Lietuviø;28;0
+121;Varpelis;6;"Nuo 3 iki 4 metø";1;Lietuviø;1;0
+121;Varpelis;7;"Nuo 4 iki 5 metø";1;Lietuviø;51;1
+121;Varpelis;8;"Nuo 5 iki 6 metø";1;Lietuviø;47;0
+121;Varpelis;11;"Nuo 5 iki 7 metø";1;Lietuviø;46;5
+121;Varpelis;14;"Nuo 3 iki 6 metø";1;Lietuviø;6;0
+121;Varpelis;18;"Nuo 2 iki 4 metø";1;Lietuviø;44;0
+122;Vëjelis;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;36;0
+122;Vëjelis;6;"Nuo 3 iki 4 metø";1;Lietuviø;25;0
+122;Vëjelis;8;"Nuo 5 iki 6 metø";1;Lietuviø;42;0
+122;Vëjelis;9;"Nuo 6 iki 7 metø";1;Lietuviø;2;0
+122;Vëjelis;10;"Nuo 3 iki 5 metø";1;Lietuviø;23;0
+122;Vëjelis;11;"Nuo 5 iki 7 metø";1;Lietuviø;42;0
+123;Vëtrungë;1;"Iki 1,5 metø";1;Lietuviø;23;0
+123;Vëtrungë;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;53;0
+123;Vëtrungë;6;"Nuo 3 iki 4 metø";1;Lietuviø;22;0
+123;Vëtrungë;7;"Nuo 4 iki 5 metø";1;Lietuviø;41;0
+123;Vëtrungë;8;"Nuo 5 iki 6 metø";1;Lietuviø;39;0
+123;Vëtrungë;11;"Nuo 5 iki 7 metø";1;Lietuviø;39;0
+123;Vëtrungë;16;"Nuo 4 iki 7 metø";1;Lietuviø;3;1
+123;Vëtrungë;18;"Nuo 2 iki 4 metø";1;Lietuviø;22;0
+124;Vilnelë;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;66;0
+124;Vilnelë;7;"Nuo 4 iki 5 metø";1;Lietuviø;43;0
+124;Vilnelë;11;"Nuo 5 iki 7 metø";1;Lietuviø;46;0
+124;Vilnelë;18;"Nuo 2 iki 4 metø";1;Lietuviø;91;0
+124;Vilnelë;20;"Nuo 2 iki 6 metø";1;Lietuviø;60;0
+125;Vërinëlis;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;39;0
+125;Vërinëlis;10;"Nuo 3 iki 5 metø";1;Lietuviø;22;0
+125;Vërinëlis;11;"Nuo 5 iki 7 metø";1;Lietuviø;25;0
+125;Vërinëlis;13;"Nuo 4 iki 6 metø";1;Lietuviø;24;0
+126;Viltenë;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;102;0
+126;Viltenë;7;"Nuo 4 iki 5 metø";1;Lietuviø;38;0
+126;Viltenë;8;"Nuo 5 iki 6 metø";1;Lietuviø;41;0
+126;Viltenë;11;"Nuo 5 iki 7 metø";1;Lietuviø;47;1
+126;Viltenë;13;"Nuo 4 iki 6 metø";1;Lietuviø;3;0
+126;Viltenë;18;"Nuo 2 iki 4 metø";1;Lietuviø;44;0
+127;Voveraitë;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;77;3
+127;Voveraitë;6;"Nuo 3 iki 4 metø";1;Lietuviø;4;4
+127;Voveraitë;7;"Nuo 4 iki 5 metø";1;Lietuviø;45;0
+127;Voveraitë;8;"Nuo 5 iki 6 metø";1;Lietuviø;61;0
+127;Voveraitë;10;"Nuo 3 iki 5 metø";1;Lietuviø;2;1
+127;Voveraitë;11;"Nuo 5 iki 7 metø";1;Lietuviø;39;0
+127;Voveraitë;16;"Nuo 4 iki 7 metø";1;Lietuviø;3;0
+127;Voveraitë;18;"Nuo 2 iki 4 metø";1;Lietuviø;60;8
+128;"Trakø Vokë";3;"Nuo 1,5 iki 3 metø";1;Lietuviø;37;0
+128;"Trakø Vokë";6;"Nuo 3 iki 4 metø";1;Lietuviø;22;0
+128;"Trakø Vokë";7;"Nuo 4 iki 5 metø";1;Lietuviø;25;0
+128;"Trakø Vokë";8;"Nuo 5 iki 6 metø";1;Lietuviø;26;0
+129;Zylutë;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;19;0
+129;Zylutë;8;"Nuo 5 iki 6 metø";1;Lietuviø;41;0
+129;Zylutë;9;"Nuo 6 iki 7 metø";1;Lietuviø;1;4
+129;Zylutë;10;"Nuo 3 iki 5 metø";1;Lietuviø;20;0
+129;Zylutë;18;"Nuo 2 iki 4 metø";1;Lietuviø;21;0
+130;Þelmenëliai;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;83;0
+130;Þelmenëliai;7;"Nuo 4 iki 5 metø";1;Lietuviø;37;0
+130;Þelmenëliai;8;"Nuo 5 iki 6 metø";1;Lietuviø;38;0
+130;Þelmenëliai;11;"Nuo 5 iki 7 metø";1;Lietuviø;41;0
+130;Þelmenëliai;13;"Nuo 4 iki 6 metø";1;Lietuviø;21;0
+130;Þelmenëliai;18;"Nuo 2 iki 4 metø";1;Lietuviø;52;0
+131;Þemyna;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;38;42
+131;Þemyna;4;"Nuo 3 iki 7 metø";1;Lietuviø;0;26
+131;Þemyna;6;"Nuo 3 iki 4 metø";1;Lietuviø;46;12
+131;Þemyna;7;"Nuo 4 iki 5 metø";1;Lietuviø;69;3
+131;Þemyna;8;"Nuo 5 iki 6 metø";1;Lietuviø;46;0
+131;Þemyna;11;"Nuo 5 iki 7 metø";1;Lietuviø;69;0
+131;Þemyna;28;"Nuo 1 iki 7 metø";1;Lietuviø;0;1
+132;Þemuogëlë;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;88;0
+132;Þemuogëlë;6;"Nuo 3 iki 4 metø";1;Lietuviø;5;0
+132;Þemuogëlë;7;"Nuo 4 iki 5 metø";1;Lietuviø;23;0
+132;Þemuogëlë;12;"Nuo 2 iki 3 metø";1;Lietuviø;5;1
+132;Þemuogëlë;13;"Nuo 4 iki 6 metø";1;Lietuviø;20;0
+132;Þemuogëlë;16;"Nuo 4 iki 7 metø";1;Lietuviø;34;0
+132;Þemuogëlë;18;"Nuo 2 iki 4 metø";1;Lietuviø;22;0
+133;Þibutë;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;33;0
+133;Þibutë;6;"Nuo 3 iki 4 metø";1;Lietuviø;20;0
+133;Þibutë;10;"Nuo 3 iki 5 metø";1;Lietuviø;44;0
+133;Þibutë;11;"Nuo 5 iki 7 metø";1;Lietuviø;23;0
+133;Þibutë;13;"Nuo 4 iki 6 metø";1;Lietuviø;24;0
+134;Þiedas;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;34;0
+134;Þiedas;6;"Nuo 3 iki 4 metø";1;Lietuviø;23;0
+134;Þiedas;7;"Nuo 4 iki 5 metø";1;Lietuviø;51;0
+134;Þiedas;8;"Nuo 5 iki 6 metø";1;Lietuviø;46;0
+134;Þiedas;11;"Nuo 5 iki 7 metø";1;Lietuviø;48;0
+134;Þiedas;16;"Nuo 4 iki 7 metø";1;Lietuviø;12;8
+135;Þilvitis;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;79;0
+135;Þilvitis;6;"Nuo 3 iki 4 metø";1;Lietuviø;55;0
+135;Þilvitis;7;"Nuo 4 iki 5 metø";1;Lietuviø;69;0
+135;Þilvitis;8;"Nuo 5 iki 6 metø";1;Lietuviø;44;0
+135;Þilvitis;11;"Nuo 5 iki 7 metø";1;Lietuviø;42;3
+135;Þilvitis;18;"Nuo 2 iki 4 metø";1;Lietuviø;21;0
+136;Þilvinëlis;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;93;0
+136;Þilvinëlis;6;"Nuo 3 iki 4 metø";1;Lietuviø;23;0
+136;Þilvinëlis;7;"Nuo 4 iki 5 metø";1;Lietuviø;64;0
+136;Þilvinëlis;8;"Nuo 5 iki 6 metø";1;Lietuviø;65;0
+136;Þilvinëlis;11;"Nuo 5 iki 7 metø";1;Lietuviø;50;1
+137;Þiogelis;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;88;0
+137;Þiogelis;6;"Nuo 3 iki 4 metø";1;Lietuviø;62;0
+137;Þiogelis;7;"Nuo 4 iki 5 metø";1;Lietuviø;45;0
+137;Þiogelis;8;"Nuo 5 iki 6 metø";1;Lietuviø;47;0
+137;Þiogelis;11;"Nuo 5 iki 7 metø";1;Lietuviø;46;0
+138;Þolynëlis;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;34;0
+138;Þolynëlis;7;"Nuo 4 iki 5 metø";1;Lietuviø;22;0
+138;Þolynëlis;11;"Nuo 5 iki 7 metø";1;Lietuviø;27;0
+138;Þolynëlis;13;"Nuo 4 iki 6 metø";1;Lietuviø;24;0
+138;Þolynëlis;18;"Nuo 2 iki 4 metø";1;Lietuviø;43;0
+138;Þolynëlis;19;"Nuo 2 iki 5 metø";1;Lietuviø;6;0
+138;Þolynëlis;23;"Nuo 1,5 iki 6 metø";1;Lietuviø;10;0
+139;Þuvëdra;10;"Nuo 3 iki 5 metø";1;Lietuviø;25;1
+139;Þuvëdra;11;"Nuo 5 iki 7 metø";1;Lietuviø;21;0
+140;Þvangutis;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;36;0
+140;Þvangutis;7;"Nuo 4 iki 5 metø";1;Lietuviø;23;0
+140;Þvangutis;8;"Nuo 5 iki 6 metø";1;Lietuviø;23;0
+140;Þvangutis;11;"Nuo 5 iki 7 metø";1;Lietuviø;23;0
+140;Þvangutis;12;"Nuo 2 iki 3 metø";1;Lietuviø;16;0
+140;Þvangutis;18;"Nuo 2 iki 4 metø";1;Lietuviø;30;0
+141;Þirniukas;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;35;0
+141;Þirniukas;6;"Nuo 3 iki 4 metø";1;Lietuviø;8;0
+141;Þirniukas;7;"Nuo 4 iki 5 metø";1;Lietuviø;23;0
+141;Þirniukas;8;"Nuo 5 iki 6 metø";1;Lietuviø;41;0
+141;Þirniukas;10;"Nuo 3 iki 5 metø";1;Lietuviø;2;0
+141;Þirniukas;11;"Nuo 5 iki 7 metø";1;Lietuviø;26;0
+141;Þirniukas;12;"Nuo 2 iki 3 metø";1;Lietuviø;17;0
+141;Þirniukas;18;"Nuo 2 iki 4 metø";1;Lietuviø;20;0
+142;Auðra;6;"Nuo 3 iki 4 metø";1;Lietuviø;48;0
+142;Auðra;7;"Nuo 4 iki 5 metø";1;Lietuviø;24;0
+142;Auðra;11;"Nuo 5 iki 7 metø";1;Lietuviø;50;0
+142;Auðra;20;"Nuo 2 iki 6 metø";1;Lietuviø;23;0
+143;Berþelis;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;57;0
+143;Berþelis;6;"Nuo 3 iki 4 metø";1;Lietuviø;0;0
+143;Berþelis;10;"Nuo 3 iki 5 metø";1;Lietuviø;2;0
+143;Berþelis;12;"Nuo 2 iki 3 metø";1;Lietuviø;18;0
+143;Berþelis;18;"Nuo 2 iki 4 metø";1;Lietuviø;1;0
+143;Berþelis;19;"Nuo 2 iki 5 metø";1;Lietuviø;21;0
+144;Pelëdþiukas;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;77;0
+144;Pelëdþiukas;7;"Nuo 4 iki 5 metø";1;Lietuviø;22;0
+144;Pelëdþiukas;8;"Nuo 5 iki 6 metø";1;Lietuviø;24;1
+144;Pelëdþiukas;10;"Nuo 3 iki 5 metø";1;Lietuviø;2;0
+144;Pelëdþiukas;11;"Nuo 5 iki 7 metø";1;Lietuviø;22;0
+144;Pelëdþiukas;18;"Nuo 2 iki 4 metø";1;Lietuviø;43;0
+147;Ðilelis;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;53;0
+147;Ðilelis;6;"Nuo 3 iki 4 metø";1;Lietuviø;6;0
+147;Ðilelis;7;"Nuo 4 iki 5 metø";1;Lietuviø;22;1
+147;Ðilelis;8;"Nuo 5 iki 6 metø";1;Lietuviø;20;0
+147;Ðilelis;11;"Nuo 5 iki 7 metø";1;Lietuviø;18;0
+147;Ðilelis;16;"Nuo 4 iki 7 metø";1;Lietuviø;16;0
+147;Ðilelis;18;"Nuo 2 iki 4 metø";1;Lietuviø;22;0
+149;Vaduvos;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;54;0
+149;Vaduvos;6;"Nuo 3 iki 4 metø";1;Lietuviø;22;0
+149;Vaduvos;7;"Nuo 4 iki 5 metø";1;Lietuviø;23;0
+149;Vaduvos;8;"Nuo 5 iki 6 metø";1;Lietuviø;20;0
+149;Vaduvos;11;"Nuo 5 iki 7 metø";1;Lietuviø;43;0
+149;Vaduvos;16;"Nuo 4 iki 7 metø";1;Lietuviø;10;1
+149;Vaduvos;18;"Nuo 2 iki 4 metø";1;Lietuviø;5;0
+150;Vilkpëdës;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;37;28
+150;Vilkpëdës;7;"Nuo 4 iki 5 metø";1;Lietuviø;23;3
+150;Vilkpëdës;8;"Nuo 5 iki 6 metø";1;Lietuviø;23;1
+150;Vilkpëdës;11;"Nuo 5 iki 7 metø";1;Lietuviø;23;0
+150;Vilkpëdës;18;"Nuo 2 iki 4 metø";1;Lietuviø;39;1
+151;Þiburëlis;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;71;0
+151;Þiburëlis;4;"Nuo 3 iki 7 metø";1;Lietuviø;23;0
+151;Þiburëlis;6;"Nuo 3 iki 4 metø";1;Lietuviø;19;0
+151;Þiburëlis;7;"Nuo 4 iki 5 metø";1;Lietuviø;23;0
+151;Þiburëlis;8;"Nuo 5 iki 6 metø";1;Lietuviø;39;3
+151;Þiburëlis;11;"Nuo 5 iki 7 metø";1;Lietuviø;19;0
+151;Þiburëlis;12;"Nuo 2 iki 3 metø";1;Lietuviø;42;0
+151;Þiburëlis;18;"Nuo 2 iki 4 metø";1;Lietuviø;16;0
+152;Justinukas;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;107;2
+152;Justinukas;6;"Nuo 3 iki 4 metø";1;Lietuviø;9;0
+152;Justinukas;7;"Nuo 4 iki 5 metø";1;Lietuviø;48;0
+152;Justinukas;8;"Nuo 5 iki 6 metø";1;Lietuviø;67;0
+152;Justinukas;11;"Nuo 5 iki 7 metø";1;Lietuviø;23;0
+152;Justinukas;18;"Nuo 2 iki 4 metø";1;Lietuviø;65;0
+153;Aidas;4;"Nuo 3 iki 7 metø";1;Lietuviø;7;0
+153;Aidas;15;"Nuo 6 iki 8 metø";1;Lietuviø;9;0
+153;Aidas;45;"Nuo 8m.";1;Lietuviø;62;0
+155;Gëlynas;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;65;0
+155;Gëlynas;6;"Nuo 3 iki 4 metø";1;Lietuviø;23;0
+155;Gëlynas;11;"Nuo 5 iki 7 metø";1;Lietuviø;25;0
+155;Gëlynas;13;"Nuo 4 iki 6 metø";1;Lietuviø;23;0
+155;Gëlynas;14;"Nuo 3 iki 6 metø";1;Lietuviø;23;0
+155;Gëlynas;28;"Nuo 1 iki 7 metø";1;Lietuviø;0;1
+156;Obelëlë;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;94;9
+156;Obelëlë;6;"Nuo 3 iki 4 metø";1;Lietuviø;43;1
+156;Obelëlë;10;"Nuo 3 iki 5 metø";1;Lietuviø;54;0
+156;Obelëlë;11;"Nuo 5 iki 7 metø";1;Lietuviø;38;0
+156;Obelëlë;13;"Nuo 4 iki 6 metø";1;Lietuviø;40;0
+156;Obelëlë;18;"Nuo 2 iki 4 metø";1;Lietuviø;7;0
+156;Obelëlë;23;"Nuo 1,5 iki 6 metø";1;Lietuviø;8;0
+157;Spygliukas;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;100;0
+157;Spygliukas;6;"Nuo 3 iki 4 metø";1;Lietuviø;4;2
+157;Spygliukas;7;"Nuo 4 iki 5 metø";1;Lietuviø;18;2
+157;Spygliukas;8;"Nuo 5 iki 6 metø";1;Lietuviø;43;0
+157;Spygliukas;10;"Nuo 3 iki 5 metø";1;Lietuviø;20;0
+157;Spygliukas;11;"Nuo 5 iki 7 metø";1;Lietuviø;44;0
+157;Spygliukas;12;"Nuo 2 iki 3 metø";1;Lietuviø;8;0
+157;Spygliukas;18;"Nuo 2 iki 4 metø";1;Lietuviø;39;0
+158;Vieversys;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;79;0
+158;Vieversys;6;"Nuo 3 iki 4 metø";1;Lietuviø;6;1
+158;Vieversys;7;"Nuo 4 iki 5 metø";1;Lietuviø;42;0
+158;Vieversys;8;"Nuo 5 iki 6 metø";1;Lietuviø;44;0
+158;Vieversys;11;"Nuo 5 iki 7 metø";1;Lietuviø;69;0
+158;Vieversys;12;"Nuo 2 iki 3 metø";1;Lietuviø;16;0
+158;Vieversys;18;"Nuo 2 iki 4 metø";1;Lietuviø;54;0
+159;Þirmûnëliai;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;86;0
+159;Þirmûnëliai;7;"Nuo 4 iki 5 metø";1;Lietuviø;42;0
+159;Þirmûnëliai;8;"Nuo 5 iki 6 metø";1;Lietuviø;22;0
+159;Þirmûnëliai;9;"Nuo 6 iki 7 metø";1;Lietuviø;0;1
+159;Þirmûnëliai;10;"Nuo 3 iki 5 metø";1;Lietuviø;57;1
+159;Þirmûnëliai;11;"Nuo 5 iki 7 metø";1;Lietuviø;65;0
+159;Þirmûnëliai;13;"Nuo 4 iki 6 metø";1;Lietuviø;2;2
+159;Þirmûnëliai;18;"Nuo 2 iki 4 metø";1;Lietuviø;42;0
+160;Dainorëliai;6;"Nuo 3 iki 4 metø";1;Lietuviø;39;0
+160;Dainorëliai;7;"Nuo 4 iki 5 metø";1;Lietuviø;22;0
+160;Dainorëliai;8;"Nuo 5 iki 6 metø";1;Lietuviø;24;0
+160;Dainorëliai;9;"Nuo 6 iki 7 metø";1;Lietuviø;1;1
+160;Dainorëliai;10;"Nuo 3 iki 5 metø";1;Lietuviø;17;0
+160;Dainorëliai;11;"Nuo 5 iki 7 metø";1;Lietuviø;43;0
+160;Dainorëliai;18;"Nuo 2 iki 4 metø";1;Lietuviø;14;0
+163;Gabijëlë;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;80;0
+163;Gabijëlë;6;"Nuo 3 iki 4 metø";1;Lietuviø;132;0
+163;Gabijëlë;7;"Nuo 4 iki 5 metø";1;Lietuviø;69;0
+163;Gabijëlë;8;"Nuo 5 iki 6 metø";1;Lietuviø;68;0
+163;Gabijëlë;9;"Nuo 6 iki 7 metø";1;Lietuviø;3;0
+163;Gabijëlë;11;"Nuo 5 iki 7 metø";1;Lietuviø;73;0
+164;Saulëgràþa;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;56;0
+164;Saulëgràþa;10;"Nuo 3 iki 5 metø";1;Lietuviø;46;0
+164;Saulëgràþa;11;"Nuo 5 iki 7 metø";1;Lietuviø;64;2
+164;Saulëgràþa;12;"Nuo 2 iki 3 metø";1;Lietuviø;18;0
+164;Saulëgràþa;13;"Nuo 4 iki 6 metø";1;Lietuviø;65;0
+164;Saulëgràþa;18;"Nuo 2 iki 4 metø";1;Lietuviø;41;0
+165;Pilaitukas;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;85;0
+165;Pilaitukas;6;"Nuo 3 iki 4 metø";1;Lietuviø;72;0
+165;Pilaitukas;7;"Nuo 4 iki 5 metø";1;Lietuviø;47;0
+165;Pilaitukas;8;"Nuo 5 iki 6 metø";1;Lietuviø;46;0
+165;Pilaitukas;11;"Nuo 5 iki 7 metø";1;Lietuviø;65;0
+167;"Vilniaus „Vilties“ specialioji mokykla-daugiafunkcinis centras";4;"Nuo 3 iki 7 metø";1;Lietuviø;9;3
+169;Ðvelnukas;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;29;0
+169;Ðvelnukas;4;"Nuo 3 iki 7 metø";1;Lietuviø;25;0
+169;Ðvelnukas;6;"Nuo 3 iki 4 metø";1;Lietuviø;29;0
+169;Ðvelnukas;7;"Nuo 4 iki 5 metø";1;Lietuviø;24;0
+169;Ðvelnukas;8;"Nuo 5 iki 6 metø";1;Lietuviø;23;0
+169;Ðvelnukas;11;"Nuo 5 iki 7 metø";1;Lietuviø;23;0
+170;Boruþëlë;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;68;0
+170;Boruþëlë;6;"Nuo 3 iki 4 metø";1;Lietuviø;80;0
+170;Boruþëlë;7;"Nuo 4 iki 5 metø";1;Lietuviø;44;0
+170;Boruþëlë;8;"Nuo 5 iki 6 metø";1;Lietuviø;66;0
+170;Boruþëlë;11;"Nuo 5 iki 7 metø";1;Lietuviø;51;0
+181;Volungë;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;67;3
+181;Volungë;8;"Nuo 5 iki 6 metø";1;Lietuviø;21;0
+181;Volungë;10;"Nuo 3 iki 5 metø";1;Lietuviø;0;0
+181;Volungë;11;"Nuo 5 iki 7 metø";1;Lietuviø;46;0
+181;Volungë;13;"Nuo 4 iki 6 metø";1;Lietuviø;1;2
+181;Volungë;14;"Nuo 3 iki 6 metø";1;Lietuviø;3;0
+181;Volungë;18;"Nuo 2 iki 4 metø";1;Lietuviø;31;3
+181;Volungë;19;"Nuo 2 iki 5 metø";1;Lietuviø;42;0
+186;Giliukas;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;69;1
+186;Giliukas;11;"Nuo 5 iki 7 metø";1;Lietuviø;23;0
+186;Giliukas;12;"Nuo 2 iki 3 metø";1;Lietuviø;3;0
+186;Giliukas;13;"Nuo 4 iki 6 metø";1;Lietuviø;22;0
+186;Giliukas;18;"Nuo 2 iki 4 metø";1;Lietuviø;2;0
+186;Giliukas;20;"Nuo 2 iki 6 metø";1;Lietuviø;44;0
+188;"Lazdynø mokykla";20;"Nuo 2 iki 6 metø";1;Lietuviø;18;3
+189;"VÁ Maþasis Trinapolis mok. 160 Eur";6;"Nuo 3 iki 4 metø";1;Lietuviø;16;0
+189;"VÁ Maþasis Trinapolis mok. 160 Eur";7;"Nuo 4 iki 5 metø";1;Lietuviø;16;0
+189;"VÁ Maþasis Trinapolis mok. 160 Eur";8;"Nuo 5 iki 6 metø";1;Lietuviø;28;0
+189;"VÁ Maþasis Trinapolis mok. 160 Eur";9;"Nuo 6 iki 7 metø";1;Lietuviø;0;0
+189;"VÁ Maþasis Trinapolis mok. 160 Eur";12;"Nuo 2 iki 3 metø";1;Lietuviø;14;0
+189;"VÁ Maþasis Trinapolis mok. 160 Eur";18;"Nuo 2 iki 4 metø";1;Lietuviø;20;0
+273;Santariðkiø;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;55;0
+273;Santariðkiø;6;"Nuo 3 iki 4 metø";1;Lietuviø;68;0
+273;Santariðkiø;7;"Nuo 4 iki 5 metø";1;Lietuviø;95;0
+273;Santariðkiø;8;"Nuo 5 iki 6 metø";1;Lietuviø;48;0
+273;Santariðkiø;11;"Nuo 5 iki 7 metø";1;Lietuviø;68;0
+280;"Vilnios pagrindinë mokykla";8;"Nuo 5 iki 6 metø";1;Lietuviø;12;0
+280;"Vilnios pagrindinë mokykla";11;"Nuo 5 iki 7 metø";1;Lietuviø;20;0
+280;"Vilnios pagrindinë mokykla";14;"Nuo 3 iki 6 metø";1;Lietuviø;3;17
+280;"Vilnios pagrindinë mokykla";18;"Nuo 2 iki 4 metø";1;Lietuviø;39;6
+283;"„Atþalyno” mokykla-darþelis";6;"Nuo 3 iki 4 metø";1;Lietuviø;1;0
+283;"„Atþalyno” mokykla-darþelis";7;"Nuo 4 iki 5 metø";1;Lietuviø;19;0
+283;"„Atþalyno” mokykla-darþelis";9;"Nuo 6 iki 7 metø";1;Lietuviø;4;0
+283;"„Atþalyno” mokykla-darþelis";11;"Nuo 5 iki 7 metø";1;Lietuviø;28;0
+283;"„Atþalyno” mokykla-darþelis";12;"Nuo 2 iki 3 metø";1;Lietuviø;36;0
+283;"„Atþalyno” mokykla-darþelis";18;"Nuo 2 iki 4 metø";1;Lietuviø;22;0
+311;"Vilniaus Naujininkø mokykla";11;"Nuo 5 iki 7 metø";1;Lietuviø;11;4
+311;"Vilniaus Naujininkø mokykla";14;"Nuo 3 iki 6 metø";1;Lietuviø;18;6
+311;"Vilniaus Naujininkø mokykla";16;"Nuo 4 iki 7 metø";1;Lietuviø;21;0
+313;"Vilniaus Taikos progimnazija";11;"Nuo 5 iki 7 metø";1;Lietuviø;140;0
+314;"Vilniaus Karaliaus Mindaugo pagrindinë mokykla";16;"Nuo 4 iki 7 metø";1;Lietuviø;101;10
+327;Àþuolas;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;38;0
+327;Àþuolas;6;"Nuo 3 iki 4 metø";1;Lietuviø;116;0
+327;Àþuolas;7;"Nuo 4 iki 5 metø";1;Lietuviø;84;0
+327;Àþuolas;8;"Nuo 5 iki 6 metø";1;Lietuviø;49;0
+327;Àþuolas;11;"Nuo 5 iki 7 metø";1;Lietuviø;24;0
+327;Àþuolas;28;"Nuo 1 iki 7 metø";1;Lietuviø;0;1
+335;"Vilniaus Trakø Vokës gimnazija";11;"Nuo 5 iki 7 metø";1;Lietuviø;22;0
+335;"Vilniaus Trakø Vokës gimnazija";16;"Nuo 4 iki 7 metø";1;Lietuviø;58;0
+337;"Vilniaus Salininkø gimnazija";11;"Nuo 5 iki 7 metø";1;Lietuviø;86;5
+338;"Vilniaus „Spindulio“ progimnazija";11;"Nuo 5 iki 7 metø";1;Lietuviø;83;0
+338;"Vilniaus „Spindulio“ progimnazija";16;"Nuo 4 iki 7 metø";1;Lietuviø;21;0
+342;"Vilniaus „Pelëdos” pradinë mokykla";11;"Nuo 5 iki 7 metø";1;Lietuviø;92;0
+373;"Vilniaus Verkiø mokykla-daugiafunkcis centras";4;"Nuo 3 iki 7 metø";1;Lietuviø;7;0
+373;"Vilniaus Verkiø mokykla-daugiafunkcis centras";9;"Nuo 6 iki 7 metø";1;Lietuviø;0;7
+373;"Vilniaus Verkiø mokykla-daugiafunkcis centras";14;"Nuo 3 iki 6 metø";1;Lietuviø;0;7
+374;"Vilniaus Sausio 13-osios mokykla";16;"Nuo 4 iki 7 metø";1;Lietuviø;63;29
+376;"Vilniaus Virðuliðkiø mokykla";16;"Nuo 4 iki 7 metø";1;Lietuviø;38;7
+377;Gluosnis;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;50;0
+377;Gluosnis;6;"Nuo 3 iki 4 metø";1;Lietuviø;51;0
+377;Gluosnis;8;"Nuo 5 iki 6 metø";1;Lietuviø;20;0
+377;Gluosnis;10;"Nuo 3 iki 5 metø";1;Lietuviø;67;0
+377;Gluosnis;11;"Nuo 5 iki 7 metø";1;Lietuviø;22;0
+377;Gluosnis;13;"Nuo 4 iki 6 metø";1;Lietuviø;21;0
+377;Gluosnis;16;"Nuo 4 iki 7 metø";1;Lietuviø;5;0
+381;"Vilniaus Simono Stanevièiaus progimnazija";11;"Nuo 5 iki 7 metø";1;Lietuviø;79;5
+384;"Vilniaus Maironio progimnazija";11;"Nuo 5 iki 7 metø";1;Lietuviø;53;9
+384;"Vilniaus Maironio progimnazija";16;"Nuo 4 iki 7 metø";1;Lietuviø;23;0
+388;Þolynas;3;"Nuo 1,5 iki 3 metø";1;Lietuviø;74;0
+388;Þolynas;11;"Nuo 5 iki 7 metø";1;Lietuviø;23;0
+388;Þolynas;13;"Nuo 4 iki 6 metø";1;Lietuviø;21;0
+388;Þolynas;18;"Nuo 2 iki 4 metø";1;Lietuviø;71;0
+388;Þolynas;28;"Nuo 1 iki 7 metø";1;Lietuviø;1;0
+389;"Vilniaus „Genio“ progimnazija";9;"Nuo 6 iki 7 metø";1;Lietuviø;21;0
+389;"Vilniaus „Genio“ progimnazija";11;"Nuo 5 iki 7 metø";1;Lietuviø;21;0
+597;"Gintarëlis (Popieriaus g. 46A)";14;"Nuo 3 iki 6 metø";1;Lietuviø;3;0
+597;"Gintarëlis (Popieriaus g. 46A)";20;"Nuo 2 iki 6 metø";1;Lietuviø;20;0
+667;"Puðynëlis (A. Mickevièiaus g. 21)";3;"Nuo 1,5 iki 3 metø";1;Lietuviø;33;0
+667;"Puðynëlis (A. Mickevièiaus g. 21)";7;"Nuo 4 iki 5 metø";1;Lietuviø;22;0
+667;"Puðynëlis (A. Mickevièiaus g. 21)";11;"Nuo 5 iki 7 metø";1;Lietuviø;25;0
+667;"Puðynëlis (A. Mickevièiaus g. 21)";18;"Nuo 2 iki 4 metø";1;Lietuviø;22;0
+668;"Naminukas (Klinikø g. 5)";3;"Nuo 1,5 iki 3 metø";1;Lietuviø;33;0
+668;"Naminukas (Klinikø g. 5)";7;"Nuo 4 iki 5 metø";1;Lietuviø;22;0
+668;"Naminukas (Klinikø g. 5)";11;"Nuo 5 iki 7 metø";1;Lietuviø;24;0
+668;"Naminukas (Klinikø g. 5)";18;"Nuo 2 iki 4 metø";1;Lietuviø;23;0
+669;"Gervelë (Stadiono g. 5)";4;"Nuo 3 iki 7 metø";1;Lietuviø;22;0
+39;Coliukë;4;"Nuo 3 iki 7 metø";2;Rusø;42;8
+41;Daigelis;3;"Nuo 1,5 iki 3 metø";2;Rusø;65;0
+41;Daigelis;4;"Nuo 3 iki 7 metø";2;Rusø;7;0
+41;Daigelis;6;"Nuo 3 iki 4 metø";2;Rusø;41;0
+41;Daigelis;7;"Nuo 4 iki 5 metø";2;Rusø;2;0
+41;Daigelis;10;"Nuo 3 iki 5 metø";2;Rusø;38;4
+41;Daigelis;16;"Nuo 4 iki 7 metø";2;Rusø;17;0
+51;Gelvonëlis;3;"Nuo 1,5 iki 3 metø";2;Rusø;31;0
+51;Gelvonëlis;7;"Nuo 4 iki 5 metø";2;Rusø;19;0
+51;Gelvonëlis;8;"Nuo 5 iki 6 metø";2;Rusø;18;0
+51;Gelvonëlis;11;"Nuo 5 iki 7 metø";2;Rusø;20;0
+51;Gelvonëlis;16;"Nuo 4 iki 7 metø";2;Rusø;4;1
+51;Gelvonëlis;18;"Nuo 2 iki 4 metø";2;Rusø;23;0
+52;"Gervelë (Dzûkø g. 32)";4;"Nuo 3 iki 7 metø";2;Rusø;24;8
+59;Karusëlë;3;"Nuo 1,5 iki 3 metø";2;Rusø;63;0
+59;Karusëlë;6;"Nuo 3 iki 4 metø";2;Rusø;31;3
+59;Karusëlë;7;"Nuo 4 iki 5 metø";2;Rusø;23;0
+59;Karusëlë;8;"Nuo 5 iki 6 metø";2;Rusø;22;0
+59;Karusëlë;11;"Nuo 5 iki 7 metø";2;Rusø;21;0
+60;Kaðtonas;14;"Nuo 3 iki 6 metø";2;Rusø;22;5
+64;Kurpaitë;3;"Nuo 1,5 iki 3 metø";2;Rusø;29;0
+64;Kurpaitë;7;"Nuo 4 iki 5 metø";2;Rusø;1;0
+64;Kurpaitë;11;"Nuo 5 iki 7 metø";2;Rusø;17;3
+64;Kurpaitë;13;"Nuo 4 iki 6 metø";2;Rusø;23;0
+64;Kurpaitë;18;"Nuo 2 iki 4 metø";2;Rusø;21;0
+65;"Kûlverstukas (Suvalkø g. 6)";3;"Nuo 1,5 iki 3 metø";2;Rusø;31;0
+65;"Kûlverstukas (Suvalkø g. 6)";7;"Nuo 4 iki 5 metø";2;Rusø;22;0
+65;"Kûlverstukas (Suvalkø g. 6)";11;"Nuo 5 iki 7 metø";2;Rusø;22;0
+65;"Kûlverstukas (Suvalkø g. 6)";18;"Nuo 2 iki 4 metø";2;Rusø;23;0
+67;Laðelis;1;"Iki 1,5 metø";2;Rusø;23;4
+67;Laðelis;3;"Nuo 1,5 iki 3 metø";2;Rusø;24;3
+67;Laðelis;7;"Nuo 4 iki 5 metø";2;Rusø;16;0
+67;Laðelis;8;"Nuo 5 iki 6 metø";2;Rusø;16;0
+67;Laðelis;12;"Nuo 2 iki 3 metø";2;Rusø;21;8
+67;Laðelis;18;"Nuo 2 iki 4 metø";2;Rusø;19;0
+69;Liepsnelë;3;"Nuo 1,5 iki 3 metø";2;Rusø;50;8
+69;Liepsnelë;7;"Nuo 4 iki 5 metø";2;Rusø;2;4
+69;Liepsnelë;8;"Nuo 5 iki 6 metø";2;Rusø;20;2
+69;Liepsnelë;13;"Nuo 4 iki 6 metø";2;Rusø;22;0
+69;Liepsnelë;18;"Nuo 2 iki 4 metø";2;Rusø;22;1
+87;Paslaptis;3;"Nuo 1,5 iki 3 metø";2;Rusø;16;0
+87;Paslaptis;10;"Nuo 3 iki 5 metø";2;Rusø;23;0
+87;Paslaptis;16;"Nuo 4 iki 7 metø";2;Rusø;24;0
+87;Paslaptis;18;"Nuo 2 iki 4 metø";2;Rusø;7;0
+90;Pelenë;3;"Nuo 1,5 iki 3 metø";2;Rusø;48;0
+90;Pelenë;6;"Nuo 3 iki 4 metø";2;Rusø;24;0
+90;Pelenë;8;"Nuo 5 iki 6 metø";2;Rusø;24;0
+90;Pelenë;9;"Nuo 6 iki 7 metø";2;Rusø;2;0
+90;Pelenë;11;"Nuo 5 iki 7 metø";2;Rusø;22;0
+90;Pelenë;18;"Nuo 2 iki 4 metø";2;Rusø;3;0
+90;Pelenë;19;"Nuo 2 iki 5 metø";2;Rusø;21;0
+92;"Prie pasakø parko";3;"Nuo 1,5 iki 3 metø";2;Rusø;23;8
+92;"Prie pasakø parko";6;"Nuo 3 iki 4 metø";2;Rusø;1;5
+92;"Prie pasakø parko";7;"Nuo 4 iki 5 metø";2;Rusø;19;0
+92;"Prie pasakø parko";10;"Nuo 3 iki 5 metø";2;Rusø;33;7
+92;"Prie pasakø parko";11;"Nuo 5 iki 7 metø";2;Rusø;11;4
+92;"Prie pasakø parko";12;"Nuo 2 iki 3 metø";2;Rusø;25;0
+97;Raktelis;3;"Nuo 1,5 iki 3 metø";2;Rusø;29;0
+97;Raktelis;10;"Nuo 3 iki 5 metø";2;Rusø;25;0
+97;Raktelis;16;"Nuo 4 iki 7 metø";2;Rusø;23;0
+99;Rugelis;13;"Nuo 4 iki 6 metø";2;Rusø;25;0
+99;Rugelis;18;"Nuo 2 iki 4 metø";2;Rusø;27;5
+102;Ramunëlë;3;"Nuo 1,5 iki 3 metø";2;Rusø;17;13
+102;Ramunëlë;10;"Nuo 3 iki 5 metø";2;Rusø;21;3
+102;Ramunëlë;11;"Nuo 5 iki 7 metø";2;Rusø;23;0
+108;Saulëtekis;3;"Nuo 1,5 iki 3 metø";2;Rusø;18;0
+108;Saulëtekis;4;"Nuo 3 iki 7 metø";2;Rusø;8;0
+108;Saulëtekis;7;"Nuo 4 iki 5 metø";2;Rusø;23;0
+108;Saulëtekis;11;"Nuo 5 iki 7 metø";2;Rusø;23;0
+112;Spragtukas;3;"Nuo 1,5 iki 3 metø";2;Rusø;19;16
+112;Spragtukas;6;"Nuo 3 iki 4 metø";2;Rusø;18;1
+112;Spragtukas;8;"Nuo 5 iki 6 metø";2;Rusø;20;1
+112;Spragtukas;11;"Nuo 5 iki 7 metø";2;Rusø;19;0
+112;Spragtukas;18;"Nuo 2 iki 4 metø";2;Rusø;21;0
+114;Sveikuolis;3;"Nuo 1,5 iki 3 metø";2;Rusø;96;5
+114;Sveikuolis;6;"Nuo 3 iki 4 metø";2;Rusø;5;0
+114;Sveikuolis;7;"Nuo 4 iki 5 metø";2;Rusø;41;0
+114;Sveikuolis;8;"Nuo 5 iki 6 metø";2;Rusø;42;0
+114;Sveikuolis;11;"Nuo 5 iki 7 metø";2;Rusø;58;1
+114;Sveikuolis;13;"Nuo 4 iki 6 metø";2;Rusø;1;0
+114;Sveikuolis;18;"Nuo 2 iki 4 metø";2;Rusø;40;1
+115;Ðermukðnëlë;3;"Nuo 1,5 iki 3 metø";2;Rusø;29;0
+115;Ðermukðnëlë;10;"Nuo 3 iki 5 metø";2;Rusø;21;0
+115;Ðermukðnëlë;11;"Nuo 5 iki 7 metø";2;Rusø;23;0
+122;Vëjelis;11;"Nuo 5 iki 7 metø";2;Rusø;24;0
+122;Vëjelis;13;"Nuo 4 iki 6 metø";2;Rusø;25;0
+122;Vëjelis;16;"Nuo 4 iki 7 metø";2;Rusø;6;0
+122;Vëjelis;18;"Nuo 2 iki 4 metø";2;Rusø;26;0
+123;Vëtrungë;3;"Nuo 1,5 iki 3 metø";2;Rusø;30;0
+125;Vërinëlis;3;"Nuo 1,5 iki 3 metø";2;Rusø;38;0
+125;Vërinëlis;10;"Nuo 3 iki 5 metø";2;Rusø;21;0
+125;Vërinëlis;11;"Nuo 5 iki 7 metø";2;Rusø;22;0
+125;Vërinëlis;13;"Nuo 4 iki 6 metø";2;Rusø;21;0
+125;Vërinëlis;18;"Nuo 2 iki 4 metø";2;Rusø;23;0
+129;Zylutë;3;"Nuo 1,5 iki 3 metø";2;Rusø;30;0
+129;Zylutë;6;"Nuo 3 iki 4 metø";2;Rusø;22;0
+129;Zylutë;7;"Nuo 4 iki 5 metø";2;Rusø;22;0
+129;Zylutë;8;"Nuo 5 iki 6 metø";2;Rusø;21;0
+132;Þemuogëlë;3;"Nuo 1,5 iki 3 metø";2;Rusø;28;0
+132;Þemuogëlë;10;"Nuo 3 iki 5 metø";2;Rusø;22;0
+132;Þemuogëlë;11;"Nuo 5 iki 7 metø";2;Rusø;21;0
+134;Þiedas;3;"Nuo 1,5 iki 3 metø";2;Rusø;33;0
+134;Þiedas;6;"Nuo 3 iki 4 metø";2;Rusø;25;0
+134;Þiedas;13;"Nuo 4 iki 6 metø";2;Rusø;25;0
+139;Þuvëdra;3;"Nuo 1,5 iki 3 metø";2;Rusø;30;0
+139;Þuvëdra;10;"Nuo 3 iki 5 metø";2;Rusø;23;0
+139;Þuvëdra;11;"Nuo 5 iki 7 metø";2;Rusø;23;0
+141;Þirniukas;4;"Nuo 3 iki 7 metø";2;Rusø;22;0
+143;Berþelis;3;"Nuo 1,5 iki 3 metø";2;Rusø;54;0
+143;Berþelis;6;"Nuo 3 iki 4 metø";2;Rusø;27;0
+143;Berþelis;7;"Nuo 4 iki 5 metø";2;Rusø;21;0
+143;Berþelis;8;"Nuo 5 iki 6 metø";2;Rusø;23;0
+143;Berþelis;9;"Nuo 6 iki 7 metø";2;Rusø;2;0
+143;Berþelis;11;"Nuo 5 iki 7 metø";2;Rusø;23;0
+145;Saulutë;3;"Nuo 1,5 iki 3 metø";2;Rusø;39;0
+145;Saulutë;4;"Nuo 3 iki 7 metø";2;Rusø;24;0
+145;Saulutë;6;"Nuo 3 iki 4 metø";2;Rusø;23;0
+145;Saulutë;7;"Nuo 4 iki 5 metø";2;Rusø;23;0
+145;Saulutë;8;"Nuo 5 iki 6 metø";2;Rusø;24;0
+145;Saulutë;11;"Nuo 5 iki 7 metø";2;Rusø;22;0
+146;Svaja;6;"Nuo 3 iki 4 metø";2;Rusø;39;2
+146;Svaja;7;"Nuo 4 iki 5 metø";2;Rusø;24;0
+146;Svaja;8;"Nuo 5 iki 6 metø";2;Rusø;23;0
+146;Svaja;11;"Nuo 5 iki 7 metø";2;Rusø;66;0
+147;Ðilelis;3;"Nuo 1,5 iki 3 metø";2;Rusø;30;0
+147;Ðilelis;4;"Nuo 3 iki 7 metø";2;Rusø;11;6
+147;Ðilelis;6;"Nuo 3 iki 4 metø";2;Rusø;3;0
+147;Ðilelis;7;"Nuo 4 iki 5 metø";2;Rusø;21;1
+147;Ðilelis;8;"Nuo 5 iki 6 metø";2;Rusø;21;0
+147;Ðilelis;9;"Nuo 6 iki 7 metø";2;Rusø;0;8
+147;Ðilelis;18;"Nuo 2 iki 4 metø";2;Rusø;23;0
+148;Vaivorykðtë;6;"Nuo 3 iki 4 metø";2;Rusø;53;41
+148;Vaivorykðtë;7;"Nuo 4 iki 5 metø";2;Rusø;51;1
+148;Vaivorykðtë;8;"Nuo 5 iki 6 metø";2;Rusø;48;0
+148;Vaivorykðtë;11;"Nuo 5 iki 7 metø";2;Rusø;66;0
+148;Vaivorykðtë;16;"Nuo 4 iki 7 metø";2;Rusø;2;15
+154;Bangelë;3;"Nuo 1,5 iki 3 metø";2;Rusø;48;15
+154;Bangelë;6;"Nuo 3 iki 4 metø";2;Rusø;0;5
+154;Bangelë;7;"Nuo 4 iki 5 metø";2;Rusø;22;0
+154;Bangelë;8;"Nuo 5 iki 6 metø";2;Rusø;24;5
+154;Bangelë;10;"Nuo 3 iki 5 metø";2;Rusø;22;0
+154;Bangelë;11;"Nuo 5 iki 7 metø";2;Rusø;24;1
+161;Lokiukas;3;"Nuo 1,5 iki 3 metø";2;Rusø;31;0
+161;Lokiukas;6;"Nuo 3 iki 4 metø";2;Rusø;6;0
+161;Lokiukas;7;"Nuo 4 iki 5 metø";2;Rusø;24;0
+161;Lokiukas;8;"Nuo 5 iki 6 metø";2;Rusø;25;0
+161;Lokiukas;9;"Nuo 6 iki 7 metø";2;Rusø;6;0
+161;Lokiukas;11;"Nuo 5 iki 7 metø";2;Rusø;40;0
+161;Lokiukas;18;"Nuo 2 iki 4 metø";2;Rusø;23;0
+165;Pilaitukas;4;"Nuo 3 iki 7 metø";2;Rusø;22;0
+166;Vilija;4;"Nuo 3 iki 7 metø";2;Rusø;20;0
+188;"Lazdynø mokykla";16;"Nuo 4 iki 7 metø";2;Rusø;33;0
+331;"Vilniaus Levo Karsavino vidurinë mokykla";11;"Nuo 5 iki 7 metø";2;Rusø;74;0
+332;"Vilniaus Liepkalnio Pagrindinë Mokykla";11;"Nuo 5 iki 7 metø";2;Rusø;41;0
+333;"Vilniaus Pranciðkaus Skorinos gimnazija";16;"Nuo 4 iki 7 metø";2;Rusø;29;6
+369;"Vilniaus Joachimo Lelevelio inþinerijos mokykla";11;"Nuo 5 iki 7 metø";2;Rusø;30;0
+375;"Vilniaus savivaldybës Grigiðkiø gimnazija";11;"Nuo 5 iki 7 metø";2;Rusø;19;21
+375;"Vilniaus savivaldybës Grigiðkiø gimnazija";16;"Nuo 4 iki 7 metø";2;Rusø;27;0
+378;"Vilniaus Aleksandro Puðkino mokykla";11;"Nuo 5 iki 7 metø";2;Rusø;30;0
+378;"Vilniaus Aleksandro Puðkino mokykla";16;"Nuo 4 iki 7 metø";2;Rusø;40;0
+380;"Vilniaus Ateities mokykla";11;"Nuo 5 iki 7 metø";2;Rusø;48;6
+380;"Vilniaus Ateities mokykla";16;"Nuo 4 iki 7 metø";2;Rusø;17;0
+383;"Vilniaus Saulëtekio mokykla-daugiafunkcinis centras";8;"Nuo 5 iki 6 metø";2;Rusø;23;0
+383;"Vilniaus Saulëtekio mokykla-daugiafunkcinis centras";11;"Nuo 5 iki 7 metø";2;Rusø;72;0
+597;"Gintarëlis (Popieriaus g. 46A)";4;"Nuo 3 iki 7 metø";2;Rusø;2;1
+597;"Gintarëlis (Popieriaus g. 46A)";16;"Nuo 4 iki 7 metø";2;Rusø;16;0
+597;"Gintarëlis (Popieriaus g. 46A)";18;"Nuo 2 iki 4 metø";2;Rusø;19;0
+669;"Gervelë (Stadiono g. 5)";3;"Nuo 1,5 iki 3 metø";2;Rusø;21;3
+669;"Gervelë (Stadiono g. 5)";10;"Nuo 3 iki 5 metø";2;Rusø;25;2
+669;"Gervelë (Stadiono g. 5)";11;"Nuo 5 iki 7 metø";2;Rusø;24;3
+670;"Kûlverstukas (Mindaugo g. 7)";3;"Nuo 1,5 iki 3 metø";2;Rusø;31;0
+670;"Kûlverstukas (Mindaugo g. 7)";4;"Nuo 3 iki 7 metø";2;Rusø;47;0
+670;"Kûlverstukas (Mindaugo g. 7)";10;"Nuo 3 iki 5 metø";2;Rusø;2;1
+670;"Kûlverstukas (Mindaugo g. 7)";11;"Nuo 5 iki 7 metø";2;Rusø;3;0
+670;"Kûlverstukas (Mindaugo g. 7)";18;"Nuo 2 iki 4 metø";2;Rusø;2;1
+670;"Kûlverstukas (Mindaugo g. 7)";20;"Nuo 2 iki 6 metø";2;Rusø;3;0
+39;Coliukë;4;"Nuo 3 iki 7 metø";4;Lenkø;21;0
+39;Coliukë;20;"Nuo 2 iki 6 metø";4;Lenkø;0;10
+51;Gelvonëlis;4;"Nuo 3 iki 7 metø";4;Lenkø;19;2
+54;"Gintarëlis (Didlaukio g. 35)";3;"Nuo 1,5 iki 3 metø";4;Lenkø;17;0
+59;Karusëlë;14;"Nuo 3 iki 6 metø";4;Lenkø;26;3
+60;Kaðtonas;3;"Nuo 1,5 iki 3 metø";4;Lenkø;15;10
+60;Kaðtonas;10;"Nuo 3 iki 5 metø";4;Lenkø;23;0
+60;Kaðtonas;11;"Nuo 5 iki 7 metø";4;Lenkø;25;3
+60;Kaðtonas;19;"Nuo 2 iki 5 metø";4;Lenkø;2;15
+82;Pakalnutë;19;"Nuo 2 iki 5 metø";4;Lenkø;16;0
+92;"Prie pasakø parko";3;"Nuo 1,5 iki 3 metø";4;Lenkø;26;2
+92;"Prie pasakø parko";10;"Nuo 3 iki 5 metø";4;Lenkø;28;7
+92;"Prie pasakø parko";11;"Nuo 5 iki 7 metø";4;Lenkø;6;6
+97;Raktelis;3;"Nuo 1,5 iki 3 metø";4;Lenkø;81;0
+97;Raktelis;6;"Nuo 3 iki 4 metø";4;Lenkø;23;0
+97;Raktelis;7;"Nuo 4 iki 5 metø";4;Lenkø;24;0
+97;Raktelis;8;"Nuo 5 iki 6 metø";4;Lenkø;23;0
+97;Raktelis;10;"Nuo 3 iki 5 metø";4;Lenkø;24;0
+97;Raktelis;11;"Nuo 5 iki 7 metø";4;Lenkø;24;0
+99;Rugelis;20;"Nuo 2 iki 6 metø";4;Lenkø;22;0
+102;Ramunëlë;16;"Nuo 4 iki 7 metø";4;Lenkø;20;0
+102;Ramunëlë;18;"Nuo 2 iki 4 metø";4;Lenkø;24;9
+112;Spragtukas;20;"Nuo 2 iki 6 metø";4;Lenkø;22;0
+114;Sveikuolis;23;"Nuo 1,5 iki 6 metø";4;Lenkø;0;0
+115;Ðermukðnëlë;23;"Nuo 1,5 iki 6 metø";4;Lenkø;0;0
+116;Ðypsena;3;"Nuo 1,5 iki 3 metø";4;Lenkø;49;0
+116;Ðypsena;6;"Nuo 3 iki 4 metø";4;Lenkø;20;0
+116;Ðypsena;7;"Nuo 4 iki 5 metø";4;Lenkø;24;0
+116;Ðypsena;8;"Nuo 5 iki 6 metø";4;Lenkø;18;0
+116;Ðypsena;10;"Nuo 3 iki 5 metø";4;Lenkø;2;0
+116;Ðypsena;11;"Nuo 5 iki 7 metø";4;Lenkø;21;2
+116;Ðypsena;12;"Nuo 2 iki 3 metø";4;Lenkø;10;0
+122;Vëjelis;3;"Nuo 1,5 iki 3 metø";4;Lenkø;37;0
+122;Vëjelis;13;"Nuo 4 iki 6 metø";4;Lenkø;22;0
+122;Vëjelis;18;"Nuo 2 iki 4 metø";4;Lenkø;20;0
+125;Vërinëlis;10;"Nuo 3 iki 5 metø";4;Lenkø;21;0
+125;Vërinëlis;11;"Nuo 5 iki 7 metø";4;Lenkø;21;0
+125;Vërinëlis;18;"Nuo 2 iki 4 metø";4;Lenkø;21;0
+129;Zylutë;16;"Nuo 4 iki 7 metø";4;Lenkø;23;0
+129;Zylutë;18;"Nuo 2 iki 4 metø";4;Lenkø;24;3
+134;Þiedas;3;"Nuo 1,5 iki 3 metø";4;Lenkø;23;0
+134;Þiedas;14;"Nuo 3 iki 6 metø";4;Lenkø;23;0
+137;Þiogelis;4;"Nuo 3 iki 7 metø";4;Lenkø;21;0
+137;Þiogelis;23;"Nuo 1,5 iki 6 metø";4;Lenkø;5;0
+139;Þuvëdra;3;"Nuo 1,5 iki 3 metø";4;Lenkø;33;0
+143;Berþelis;3;"Nuo 1,5 iki 3 metø";4;Lenkø;18;0
+143;Berþelis;18;"Nuo 2 iki 4 metø";4;Lenkø;2;1
+145;Saulutë;3;"Nuo 1,5 iki 3 metø";4;Lenkø;29;0
+145;Saulutë;4;"Nuo 3 iki 7 metø";4;Lenkø;19;0
+145;Saulutë;18;"Nuo 2 iki 4 metø";4;Lenkø;20;0
+147;Ðilelis;14;"Nuo 3 iki 6 metø";4;Lenkø;18;0
+154;Bangelë;3;"Nuo 1,5 iki 3 metø";4;Lenkø;35;0
+154;Bangelë;6;"Nuo 3 iki 4 metø";4;Lenkø;24;4
+154;Bangelë;7;"Nuo 4 iki 5 metø";4;Lenkø;1;1
+154;Bangelë;10;"Nuo 3 iki 5 metø";4;Lenkø;23;0
+154;Bangelë;11;"Nuo 5 iki 7 metø";4;Lenkø;2;0
+154;Bangelë;16;"Nuo 4 iki 7 metø";4;Lenkø;22;0
+162;Ðaltinëlis;3;"Nuo 1,5 iki 3 metø";4;Lenkø;49;0
+162;Ðaltinëlis;6;"Nuo 3 iki 4 metø";4;Lenkø;32;1
+162;Ðaltinëlis;7;"Nuo 4 iki 5 metø";4;Lenkø;23;0
+162;Ðaltinëlis;8;"Nuo 5 iki 6 metø";4;Lenkø;22;0
+162;Ðaltinëlis;9;"Nuo 6 iki 7 metø";4;Lenkø;3;0
+162;Ðaltinëlis;11;"Nuo 5 iki 7 metø";4;Lenkø;55;3
+162;Ðaltinëlis;18;"Nuo 2 iki 4 metø";4;Lenkø;20;0
+165;Pilaitukas;3;"Nuo 1,5 iki 3 metø";4;Lenkø;29;0
+165;Pilaitukas;4;"Nuo 3 iki 7 metø";4;Lenkø;21;0
+166;Vilija;3;"Nuo 1,5 iki 3 metø";4;Lenkø;54;0
+166;Vilija;6;"Nuo 3 iki 4 metø";4;Lenkø;65;0
+166;Vilija;7;"Nuo 4 iki 5 metø";4;Lenkø;68;0
+166;Vilija;8;"Nuo 5 iki 6 metø";4;Lenkø;58;0
+166;Vilija;9;"Nuo 6 iki 7 metø";4;Lenkø;6;0
+166;Vilija;11;"Nuo 5 iki 7 metø";4;Lenkø;58;0
+166;Vilija;12;"Nuo 2 iki 3 metø";4;Lenkø;18;0
+166;Vilija;18;"Nuo 2 iki 4 metø";4;Lenkø;34;0
+171;Þaliakalnio;6;"Nuo 3 iki 4 metø";4;Lenkø;22;0
+171;Þaliakalnio;7;"Nuo 4 iki 5 metø";4;Lenkø;23;0
+171;Þaliakalnio;8;"Nuo 5 iki 6 metø";4;Lenkø;22;0
+171;Þaliakalnio;11;"Nuo 5 iki 7 metø";4;Lenkø;37;0
+171;Þaliakalnio;16;"Nuo 4 iki 7 metø";4;Lenkø;10;1
+171;Þaliakalnio;18;"Nuo 2 iki 4 metø";4;Lenkø;65;0
+188;"Lazdynø mokykla";16;"Nuo 4 iki 7 metø";4;Lenkø;27;5
+188;"Lazdynø mokykla";20;"Nuo 2 iki 6 metø";4;Lenkø;24;0
+334;"Vilniaus Simono Konarskio mokykla";11;"Nuo 5 iki 7 metø";4;Lenkø;26;10
+339;"Vilniaus Vladislavo Sirokomlës gimnazija";11;"Nuo 5 iki 7 metø";4;Lenkø;42;0
+339;"Vilniaus Vladislavo Sirokomlës gimnazija";16;"Nuo 4 iki 7 metø";4;Lenkø;15;0
+369;"Vilniaus Joachimo Lelevelio inþinerijos mokykla";11;"Nuo 5 iki 7 metø";4;Lenkø;30;0
+370;"Vilniaus Juzefo Ignacijaus Kraðevskio gimnazija";11;"Nuo 5 iki 7 metø";4;Lenkø;0;20
+370;"Vilniaus Juzefo Ignacijaus Kraðevskio gimnazija";16;"Nuo 4 iki 7 metø";4;Lenkø;35;5
+371;"Vilniaus Jono Pauliaus II progimnazija";11;"Nuo 5 iki 7 metø";4;Lenkø;108;0
+371;"Vilniaus Jono Pauliaus II progimnazija";16;"Nuo 4 iki 7 metø";4;Lenkø;22;0
+375;"Vilniaus savivaldybës Grigiðkiø gimnazija";11;"Nuo 5 iki 7 metø";4;Lenkø;6;14
+375;"Vilniaus savivaldybës Grigiðkiø gimnazija";16;"Nuo 4 iki 7 metø";4;Lenkø;11;0
+597;"Gintarëlis (Popieriaus g. 46A)";3;"Nuo 1,5 iki 3 metø";4;Lenkø;15;0
+597;"Gintarëlis (Popieriaus g. 46A)";18;"Nuo 2 iki 4 metø";4;Lenkø;4;0
+107;Salvija;16;"Nuo 4 iki 7 metø";8;Hebrajø;26;0
+107;Salvija;18;"Nuo 2 iki 4 metø";8;Hebrajø;32;0
